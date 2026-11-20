@@ -1,0 +1,8 @@
+step,rows,curves
+raw file,136989,15259
+without duplicates,132447,15259
+good quality fits,112708,11705
+without missing values,112703,11705
+psi <= 100000 m,112652,11705
+physical range,112652,11705
+tropical climate,10322,1122

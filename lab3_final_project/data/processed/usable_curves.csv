@@ -1,0 +1,941 @@
+layer_id,n_points,psi_min,psi_max,texture_group,profile_id,reference,alpha_csv,n_csv,has_upward_jump
+BJ wasp_1_2,7,0.01,158.4893192,coarse,BJ wasp_1,Leenaars_et_al_2014,5.488511287,2.439675941,False
+BJ wasp_1_3,7,0.01,158.4893192,coarse,BJ wasp_1,Leenaars_et_al_2014,5.250852242,2.637697068,False
+BJ wasp_1_6,7,0.01,158.4893192,fine,BJ wasp_1,Leenaars_et_al_2014,5.110446318,1.618375143,False
+BJ wasp_3_1,7,0.01,158.4893192,fine,BJ wasp_3,Leenaars_et_al_2014,6.897004841,1.054417616,False
+BJ wasp_3_3,7,0.01,158.4893192,fine,BJ wasp_3,Leenaars_et_al_2014,5.480280074,1.165816975,False
+BJ wasp_3_4,7,0.01,158.4893192,fine,BJ wasp_3,Leenaars_et_al_2014,5.59529107,1.066106313,False
+CD wasp_1_3,7,0.01,158.4893192,medium,CD wasp_1,Leenaars_et_al_2014,30.92017411,1.285055941,False
+CD wasp_1_4,7,0.01,158.4893192,medium,CD wasp_1,Leenaars_et_al_2014,8.185673857,1.74237391,False
+CD wasp_1_6,7,0.01,158.4893192,medium,CD wasp_1,Leenaars_et_al_2014,19.00400754,1.268956161,False
+CD wasp_2_3,7,0.01,158.4893192,medium,CD wasp_2,Leenaars_et_al_2014,6.933100222,1.519163499,False
+CD wasp_2_4,7,0.01,158.4893192,medium,CD wasp_2,Leenaars_et_al_2014,10.91319608,1.191834281,False
+CD wasp_2_6,7,0.01,158.4893192,medium,CD wasp_2,Leenaars_et_al_2014,11.57817608,1.38015166,False
+CD wasp_2_7,7,0.01,158.4893192,medium,CD wasp_2,Leenaars_et_al_2014,9.888653278,1.283911679,False
+CI wasp_1_6,7,0.01,158.4893192,fine,CI wasp_1,Leenaars_et_al_2014,12.29277976,1.139288049,False
+CI wasp_2_4,7,0.01,158.4893192,fine,CI wasp_2,Leenaars_et_al_2014,10.52265968,1.199421247,False
+CI wasp_3_2,7,0.01,158.4893192,coarse,CI wasp_3,Leenaars_et_al_2014,8.466723521,1.349182171,False
+CI wasp_3_5,7,0.01,158.4893192,fine,CI wasp_3,Leenaars_et_al_2014,4.455405637,1.068494356,False
+CI wasp_4_2,7,0.01,158.4893192,medium,CI wasp_4,Leenaars_et_al_2014,5.049814664,1.346688555,False
+CI wasp_4_3,7,0.01,158.4893192,medium,CI wasp_4,Leenaars_et_al_2014,6.280413011,1.288495446,False
+CI wasp_4_4,7,0.01,158.4893192,medium,CI wasp_4,Leenaars_et_al_2014,9.398701059,1.226429529,False
+CI wasp_5_3,7,0.01,158.4893192,coarse,CI wasp_5,Leenaars_et_al_2014,7.843058781,1.145760239,False
+CI wasp_5_4,7,0.01,158.4893192,coarse,CI wasp_5,Leenaars_et_al_2014,7.184422709,1.19065043,False
+CI wasp_5_5,7,0.01,158.4893192,coarse,CI wasp_5,Leenaars_et_al_2014,6.875246779,1.184557394,False
+CI wasp_6_3,7,0.01,158.4893192,medium,CI wasp_6,Leenaars_et_al_2014,5.67938776,1.441214807,False
+CI wasp_6_4,7,0.01,158.4893192,fine,CI wasp_6,Leenaars_et_al_2014,11.88051608,1.154978132,False
+CI wasp_7_2,7,0.01,158.4893192,medium,CI wasp_7,Leenaars_et_al_2014,1.104651186,1.212535567,False
+CI wasp_7_5,7,0.01,158.4893192,fine,CI wasp_7,Leenaars_et_al_2014,9.298155028,1.237742061,False
+CI wasp_7_6,7,0.01,158.4893192,fine,CI wasp_7,Leenaars_et_al_2014,2.397988979,1.09976908,False
+Cuba_HanoiMedina_1,9,0.0,250.0,fine,,Medina_et_al_2002,21.46122114,1.322436044,False
+ET 5322_5-076_2,6,0.031622777,158.4893192,medium,ET 5322_5-076,Leenaars_et_al_2014,26.50761285,1.123855053,False
+ET 5322_5-076_3,6,0.031622777,158.4893192,fine,ET 5322_5-076,Leenaars_et_al_2014,0.762549211,1.083877283,False
+Florida_ksat_data_100,11,0.035,150.0,medium,Florida_dataset21,Grunwald_2020,0.301798842,1.248024755,False
+Florida_ksat_data_1000,11,0.035,150.0,coarse,Florida_dataset173,Grunwald_2020,4.028961447,3.266689371,False
+Florida_ksat_data_1002,11,0.035,150.0,coarse,Florida_dataset173,Grunwald_2020,4.203948479,2.940675152,False
+Florida_ksat_data_1003,11,0.035,150.0,coarse,Florida_dataset174,Grunwald_2020,2.491275152,2.615219979,False
+Florida_ksat_data_1004,11,0.035,150.0,coarse,Florida_dataset174,Grunwald_2020,2.139992978,2.95583159,False
+Florida_ksat_data_1005,11,0.035,150.0,coarse,Florida_dataset174,Grunwald_2020,1.491052333,3.499991698,False
+Florida_ksat_data_1006,11,0.035,150.0,coarse,Florida_dataset174,Grunwald_2020,1.552729623,2.548137528,False
+Florida_ksat_data_1007,11,0.035,150.0,coarse,Florida_dataset175,Grunwald_2020,2.143044177,2.06018701,False
+Florida_ksat_data_1008,11,0.035,150.0,coarse,Florida_dataset175,Grunwald_2020,1.496872745,3.37672931,False
+Florida_ksat_data_1009,11,0.035,150.0,coarse,Florida_dataset176,Grunwald_2020,2.143044188,2.06018702,False
+Florida_ksat_data_101,11,0.035,150.0,coarse,Florida_dataset22,Grunwald_2020,2.38712919,3.095478104,False
+Florida_ksat_data_1010,11,0.035,150.0,coarse,Florida_dataset176,Grunwald_2020,1.458181023,4.824354833,False
+Florida_ksat_data_1011,11,0.035,150.0,coarse,Florida_dataset176,Grunwald_2020,1.590817362,4.020677172,False
+Florida_ksat_data_1014,11,0.035,150.0,coarse,Florida_dataset158,Grunwald_2020,2.591931372,4.177240877,False
+Florida_ksat_data_1015,11,0.035,150.0,coarse,Florida_dataset158,Grunwald_2020,2.371431948,5.474928796,False
+Florida_ksat_data_1016,11,0.035,150.0,coarse,Florida_dataset158,Grunwald_2020,2.354124425,5.654323297,False
+Florida_ksat_data_1017,11,0.035,150.0,coarse,Florida_dataset178,Grunwald_2020,2.969123798,3.260453354,False
+Florida_ksat_data_1018,11,0.035,150.0,coarse,Florida_dataset178,Grunwald_2020,2.46831601,4.821453631,False
+Florida_ksat_data_1019,11,0.035,150.0,coarse,Florida_dataset178,Grunwald_2020,2.54733304,4.545164772,False
+Florida_ksat_data_102,11,0.035,150.0,coarse,Florida_dataset22,Grunwald_2020,2.5197996,3.384371662,False
+Florida_ksat_data_1020,11,0.035,150.0,coarse,Florida_dataset179,Grunwald_2020,2.091019333,5.692686778,False
+Florida_ksat_data_1021,11,0.035,150.0,coarse,Florida_dataset179,Grunwald_2020,2.087325227,5.5354433,False
+Florida_ksat_data_1022,11,0.035,150.0,coarse,Florida_dataset179,Grunwald_2020,2.228574876,3.706278292,False
+Florida_ksat_data_1023,11,0.035,150.0,coarse,Florida_dataset179,Grunwald_2020,1.973502176,3.830431933,False
+Florida_ksat_data_1024,11,0.035,150.0,coarse,Florida_dataset179,Grunwald_2020,1.911244154,4.829102076,False
+Florida_ksat_data_1025,11,0.035,150.0,coarse,Florida_dataset179,Grunwald_2020,1.24458093,1.452957327,False
+Florida_ksat_data_1026,11,0.035,150.0,coarse,Florida_dataset180,Grunwald_2020,2.253856773,4.341273424,False
+Florida_ksat_data_1027,11,0.035,150.0,coarse,Florida_dataset180,Grunwald_2020,2.204011934,5.678743224,False
+Florida_ksat_data_1028,11,0.035,150.0,coarse,Florida_dataset180,Grunwald_2020,2.267131863,5.232494069,False
+Florida_ksat_data_1029,11,0.035,150.0,coarse,Florida_dataset180,Grunwald_2020,1.965172351,2.841616249,False
+Florida_ksat_data_103,11,0.035,150.0,coarse,Florida_dataset22,Grunwald_2020,2.48776601,2.280589756,False
+Florida_ksat_data_1030,11,0.035,150.0,coarse,Florida_dataset180,Grunwald_2020,1.868804982,3.294674767,False
+Florida_ksat_data_1031,11,0.035,150.0,coarse,Florida_dataset180,Grunwald_2020,1.607974581,1.501767441,False
+Florida_ksat_data_1032,11,0.035,150.0,coarse,Florida_dataset180,Grunwald_2020,1.778067693,5.680127636,False
+Florida_ksat_data_1033,11,0.035,150.0,coarse,Florida_dataset181,Grunwald_2020,2.262902311,5.543441032,False
+Florida_ksat_data_1035,11,0.035,150.0,coarse,Florida_dataset181,Grunwald_2020,2.346482042,5.013024967,False
+Florida_ksat_data_1036,11,0.035,150.0,coarse,Florida_dataset181,Grunwald_2020,2.345571403,5.079969617,False
+Florida_ksat_data_1037,11,0.035,150.0,coarse,Florida_dataset181,Grunwald_2020,2.171583515,3.827907796,False
+Florida_ksat_data_1038,11,0.035,150.0,coarse,Florida_dataset181,Grunwald_2020,2.134360966,5.434566363,False
+Florida_ksat_data_1039,11,0.035,150.0,coarse,Florida_dataset181,Grunwald_2020,2.257877086,4.590464924,False
+Florida_ksat_data_104,11,0.035,150.0,coarse,Florida_dataset22,Grunwald_2020,3.322433617,1.6059301,False
+Florida_ksat_data_1040,11,0.035,150.0,coarse,Florida_dataset182,Grunwald_2020,2.128566219,6.556682457,False
+Florida_ksat_data_1041,11,0.035,150.0,coarse,Florida_dataset182,Grunwald_2020,2.295371412,5.778249738,False
+Florida_ksat_data_1042,11,0.035,150.0,coarse,Florida_dataset182,Grunwald_2020,2.074808108,5.404266937,False
+Florida_ksat_data_1043,11,0.035,150.0,coarse,Florida_dataset182,Grunwald_2020,1.955343253,6.408942454,False
+Florida_ksat_data_1045,11,0.035,150.0,coarse,Florida_dataset183,Grunwald_2020,1.988562569,3.285071368,False
+Florida_ksat_data_1046,11,0.035,150.0,coarse,Florida_dataset183,Grunwald_2020,2.021301785,3.963513986,False
+Florida_ksat_data_1047,11,0.035,150.0,coarse,Florida_dataset183,Grunwald_2020,2.013400523,3.681625524,False
+Florida_ksat_data_1048,11,0.035,150.0,coarse,Florida_dataset183,Grunwald_2020,1.856781411,3.079447503,False
+Florida_ksat_data_1049,11,0.035,150.0,medium,Florida_dataset183,Grunwald_2020,0.522016582,1.154777353,False
+Florida_ksat_data_105,11,0.035,150.0,coarse,Florida_dataset22,Grunwald_2020,2.186499652,4.285976634,False
+Florida_ksat_data_1050,11,0.035,150.0,medium,Florida_dataset183,Grunwald_2020,1.014792131,1.0760233,False
+Florida_ksat_data_1051,11,0.035,150.0,coarse,Florida_dataset184,Grunwald_2020,3.548148361,2.639103096,False
+Florida_ksat_data_1052,11,0.035,150.0,coarse,Florida_dataset184,Grunwald_2020,2.8893511,3.12496588,False
+Florida_ksat_data_1053,11,0.035,150.0,coarse,Florida_dataset184,Grunwald_2020,2.615569983,3.686715222,False
+Florida_ksat_data_1054,11,0.035,150.0,coarse,Florida_dataset184,Grunwald_2020,2.204195493,1.393837957,False
+Florida_ksat_data_1055,11,0.035,150.0,coarse,Florida_dataset184,Grunwald_2020,1.373594386,1.136653199,False
+Florida_ksat_data_1056,11,0.035,150.0,coarse,Florida_dataset184,Grunwald_2020,0.817493231,1.259905584,False
+Florida_ksat_data_1057,11,0.035,150.0,coarse,Florida_dataset185,Grunwald_2020,5.289886544,1.912060193,False
+Florida_ksat_data_1058,11,0.035,150.0,coarse,Florida_dataset185,Grunwald_2020,3.053344474,3.677237622,False
+Florida_ksat_data_1059,11,0.035,150.0,coarse,Florida_dataset185,Grunwald_2020,3.14167772,3.899657814,False
+Florida_ksat_data_106,11,0.035,150.0,coarse,Florida_dataset22,Grunwald_2020,2.0123701,4.311005184,False
+Florida_ksat_data_1060,11,0.035,150.0,coarse,Florida_dataset185,Grunwald_2020,3.305317009,2.861490169,False
+Florida_ksat_data_1061,11,0.035,150.0,coarse,Florida_dataset185,Grunwald_2020,3.479902529,2.251606879,False
+Florida_ksat_data_1062,11,0.035,150.0,coarse,Florida_dataset185,Grunwald_2020,2.528721949,3.196841989,False
+Florida_ksat_data_1063,11,0.035,150.0,coarse,Florida_dataset185,Grunwald_2020,2.720658778,1.148602219,False
+Florida_ksat_data_1064,11,0.035,150.0,coarse,Florida_dataset186,Grunwald_2020,2.593817107,5.009318198,False
+Florida_ksat_data_1065,11,0.035,150.0,coarse,Florida_dataset186,Grunwald_2020,2.639818143,4.64832984,False
+Florida_ksat_data_1066,11,0.035,150.0,coarse,Florida_dataset186,Grunwald_2020,2.58971411,4.94516766,False
+Florida_ksat_data_1067,11,0.035,150.0,coarse,Florida_dataset186,Grunwald_2020,2.602755332,4.317848514,False
+Florida_ksat_data_1068,11,0.035,150.0,coarse,Florida_dataset186,Grunwald_2020,2.400678059,5.309388875,False
+Florida_ksat_data_1069,11,0.035,150.0,coarse,Florida_dataset186,Grunwald_2020,2.020555974,5.594666412,False
+Florida_ksat_data_107,11,0.035,150.0,coarse,Florida_dataset22,Grunwald_2020,1.690629291,2.320466959,False
+Florida_ksat_data_1070,11,0.035,150.0,coarse,Florida_dataset187,Grunwald_2020,3.401586606,2.767847254,False
+Florida_ksat_data_1071,11,0.035,150.0,coarse,Florida_dataset187,Grunwald_2020,2.075844135,6.171314933,False
+Florida_ksat_data_1073,11,0.035,150.0,coarse,Florida_dataset187,Grunwald_2020,2.338702584,5.575693497,False
+Florida_ksat_data_1074,11,0.035,150.0,coarse,Florida_dataset187,Grunwald_2020,2.192405282,3.941797223,False
+Florida_ksat_data_1075,11,0.035,150.0,coarse,Florida_dataset188,Grunwald_2020,3.740429484,2.205780515,False
+Florida_ksat_data_1076,11,0.035,150.0,coarse,Florida_dataset188,Grunwald_2020,3.455421042,3.097744617,False
+Florida_ksat_data_1077,11,0.035,150.0,coarse,Florida_dataset188,Grunwald_2020,2.957874177,3.694548078,False
+Florida_ksat_data_1078,11,0.035,150.0,coarse,Florida_dataset188,Grunwald_2020,3.324777826,3.029890984,False
+Florida_ksat_data_1079,11,0.035,150.0,coarse,Florida_dataset188,Grunwald_2020,0.676926729,1.55902333,False
+Florida_ksat_data_108,11,0.035,150.0,coarse,Florida_dataset22,Grunwald_2020,0.523579139,1.290801716,False
+Florida_ksat_data_1080,11,0.035,150.0,coarse,Florida_dataset188,Grunwald_2020,3.087103493,1.68044283,False
+Florida_ksat_data_1081,11,0.035,150.0,coarse,Florida_dataset188,Grunwald_2020,2.56353817,3.426289208,False
+Florida_ksat_data_1082,11,0.035,150.0,coarse,Florida_dataset189,Grunwald_2020,2.726370829,3.710194665,False
+Florida_ksat_data_1083,11,0.035,150.0,coarse,Florida_dataset190,Grunwald_2020,3.140060532,2.409302114,False
+Florida_ksat_data_1084,11,0.035,150.0,coarse,Florida_dataset189,Grunwald_2020,2.755741601,4.84545811,False
+Florida_ksat_data_1085,11,0.035,150.0,coarse,Florida_dataset189,Grunwald_2020,3.175992582,3.441546482,False
+Florida_ksat_data_1086,11,0.035,150.0,coarse,Florida_dataset189,Grunwald_2020,2.831375041,1.491452232,False
+Florida_ksat_data_1087,11,0.035,150.0,coarse,Florida_dataset189,Grunwald_2020,2.442659177,3.293223701,False
+Florida_ksat_data_1088,11,0.035,150.0,coarse,Florida_dataset191,Grunwald_2020,2.453974317,3.875690222,False
+Florida_ksat_data_1089,11,0.035,150.0,coarse,Florida_dataset191,Grunwald_2020,2.26598409,4.974665171,False
+Florida_ksat_data_109,11,0.035,150.0,medium,Florida_dataset22,Grunwald_2020,1.251531118,1.232559915,False
+Florida_ksat_data_1090,11,0.035,150.0,coarse,Florida_dataset191,Grunwald_2020,2.102478075,4.716400143,False
+Florida_ksat_data_1091,11,0.035,150.0,coarse,Florida_dataset191,Grunwald_2020,1.574122203,1.714533609,False
+Florida_ksat_data_1092,11,0.035,150.0,coarse,Florida_dataset191,Grunwald_2020,1.811325974,1.782832297,False
+Florida_ksat_data_1093,11,0.035,150.0,coarse,Florida_dataset191,Grunwald_2020,1.620044792,1.690448389,False
+Florida_ksat_data_1095,11,0.035,150.0,coarse,Florida_dataset192,Grunwald_2020,1.773239982,1.231456792,False
+Florida_ksat_data_1096,11,0.035,150.0,coarse,Florida_dataset192,Grunwald_2020,0.989681495,1.186704485,False
+Florida_ksat_data_1097,11,0.035,150.0,coarse,Florida_dataset190,Grunwald_2020,2.512168862,3.274557981,False
+Florida_ksat_data_1098,11,0.035,150.0,coarse,Florida_dataset190,Grunwald_2020,3.355624808,3.725462705,False
+Florida_ksat_data_1099,11,0.035,150.0,coarse,Florida_dataset190,Grunwald_2020,1.747986651,2.517625593,False
+Florida_ksat_data_110,11,0.035,150.0,coarse,Florida_dataset14,Grunwald_2020,3.110173904,3.685630736,False
+Florida_ksat_data_1100,11,0.035,150.0,coarse,Florida_dataset190,Grunwald_2020,0.885491173,1.712460537,False
+Florida_ksat_data_1101,11,0.035,150.0,coarse,Florida_dataset193,Grunwald_2020,1.240066481,1.366182918,False
+Florida_ksat_data_1102,11,0.035,150.0,coarse,Florida_dataset193,Grunwald_2020,0.569041826,1.416987589,False
+Florida_ksat_data_1103,11,0.035,150.0,coarse,Florida_dataset193,Grunwald_2020,2.281430943,2.197363293,False
+Florida_ksat_data_1104,11,0.035,150.0,coarse,Florida_dataset194,Grunwald_2020,2.153647523,3.968844192,False
+Florida_ksat_data_1105,11,0.035,150.0,coarse,Florida_dataset194,Grunwald_2020,4.150328836,1.124337551,False
+Florida_ksat_data_1106,11,0.035,150.0,coarse,Florida_dataset194,Grunwald_2020,2.030300898,1.674092135,False
+Florida_ksat_data_1108,11,0.035,150.0,coarse,Florida_dataset195,Grunwald_2020,2.474406246,2.478619099,False
+Florida_ksat_data_1109,11,0.035,150.0,coarse,Florida_dataset195,Grunwald_2020,2.150921348,3.967597703,False
+Florida_ksat_data_111,11,0.035,150.0,medium,Florida_dataset14,Grunwald_2020,4.328029214,1.075552711,False
+Florida_ksat_data_1110,11,0.035,150.0,medium,Florida_dataset195,Grunwald_2020,4.153832923,1.12432045,False
+Florida_ksat_data_1112,11,0.035,150.0,coarse,Florida_dataset195,Grunwald_2020,2.030339593,1.674077622,False
+Florida_ksat_data_1113,11,0.035,150.0,coarse,Florida_dataset195,Grunwald_2020,1.940729669,1.845936091,False
+Florida_ksat_data_1114,11,0.035,150.0,coarse,Florida_dataset195,Grunwald_2020,2.258137306,2.702199513,False
+Florida_ksat_data_1115,11,0.035,150.0,coarse,Florida_dataset195,Grunwald_2020,2.81044628,4.729434861,False
+Florida_ksat_data_1116,11,0.035,150.0,coarse,Florida_dataset195,Grunwald_2020,3.490668606,4.758642347,False
+Florida_ksat_data_112,11,0.035,150.0,coarse,Florida_dataset14,Grunwald_2020,2.043587088,1.08930745,False
+Florida_ksat_data_113,11,0.035,150.0,coarse,Florida_dataset15,Grunwald_2020,2.425133057,3.555458511,False
+Florida_ksat_data_114,11,0.035,150.0,coarse,Florida_dataset15,Grunwald_2020,2.394738376,3.595087359,False
+Florida_ksat_data_115,11,0.035,150.0,coarse,Florida_dataset15,Grunwald_2020,2.154116772,1.540181153,False
+Florida_ksat_data_116,11,0.035,150.0,coarse,Florida_dataset15,Grunwald_2020,8.212429084,1.153215854,False
+Florida_ksat_data_117,11,0.035,150.0,coarse,Florida_dataset15,Grunwald_2020,3.102748817,1.37223246,False
+Florida_ksat_data_118,11,0.035,150.0,coarse,Florida_dataset23,Grunwald_2020,7.944639511,1.170002745,False
+Florida_ksat_data_119,11,0.035,150.0,medium,Florida_dataset23,Grunwald_2020,9.432409323,1.2559328,False
+Florida_ksat_data_120,11,0.035,150.0,medium,Florida_dataset23,Grunwald_2020,2.034165769,2.101050276,False
+Florida_ksat_data_121,11,0.035,150.0,medium,Florida_dataset23,Grunwald_2020,5.537765534,1.120918168,False
+Florida_ksat_data_122,11,0.035,150.0,coarse,Florida_dataset23,Grunwald_2020,0.848087889,1.561041424,False
+Florida_ksat_data_123,11,0.035,150.0,coarse,Florida_dataset24,Grunwald_2020,4.600069955,2.264073831,False
+Florida_ksat_data_124,11,0.035,150.0,coarse,Florida_dataset24,Grunwald_2020,2.882663227,2.989646375,False
+Florida_ksat_data_125,11,0.035,150.0,coarse,Florida_dataset24,Grunwald_2020,3.081341943,3.87470766,False
+Florida_ksat_data_126,11,0.035,150.0,coarse,Florida_dataset24,Grunwald_2020,3.28294608,3.18752734,False
+Florida_ksat_data_127,11,0.035,150.0,coarse,Florida_dataset24,Grunwald_2020,3.199648181,3.220266613,False
+Florida_ksat_data_128,11,0.035,150.0,coarse,Florida_dataset24,Grunwald_2020,11.94189256,1.101916738,False
+Florida_ksat_data_129,11,0.035,150.0,coarse,Florida_dataset17,Grunwald_2020,4.242315102,3.403659353,False
+Florida_ksat_data_130,11,0.035,150.0,coarse,Florida_dataset17,Grunwald_2020,3.881570614,3.909539127,False
+Florida_ksat_data_131,11,0.035,150.0,coarse,Florida_dataset17,Grunwald_2020,3.448972412,2.877516883,False
+Florida_ksat_data_132,11,0.035,150.0,medium,Florida_dataset17,Grunwald_2020,8.028888873,1.130447158,False
+Florida_ksat_data_133,11,0.035,150.0,coarse,Florida_dataset25,Grunwald_2020,2.599947778,2.483951317,False
+Florida_ksat_data_134,11,0.035,150.0,coarse,Florida_dataset25,Grunwald_2020,2.458546547,5.366107415,False
+Florida_ksat_data_135,11,0.035,150.0,coarse,Florida_dataset25,Grunwald_2020,2.18614544,4.385698401,False
+Florida_ksat_data_136,11,0.035,150.0,coarse,Florida_dataset25,Grunwald_2020,2.552370676,2.00913026,False
+Florida_ksat_data_137,11,0.035,150.0,coarse,Florida_dataset25,Grunwald_2020,2.307681651,3.304366224,False
+Florida_ksat_data_138,11,0.035,150.0,coarse,Florida_dataset25,Grunwald_2020,2.108284262,4.031444099,False
+Florida_ksat_data_139,11,0.035,150.0,coarse,Florida_dataset25,Grunwald_2020,1.614446749,1.698375481,False
+Florida_ksat_data_140,11,0.035,150.0,coarse,Florida_dataset25,Grunwald_2020,1.678175509,1.363864657,False
+Florida_ksat_data_141,11,0.035,150.0,coarse,Florida_dataset26,Grunwald_2020,9.366874127,1.480310756,False
+Florida_ksat_data_142,11,0.035,150.0,coarse,Florida_dataset26,Grunwald_2020,3.968765868,2.192444331,False
+Florida_ksat_data_143,11,0.035,150.0,coarse,Florida_dataset26,Grunwald_2020,3.310139613,2.81459478,False
+Florida_ksat_data_144,11,0.035,150.0,coarse,Florida_dataset26,Grunwald_2020,3.394810105,1.490417373,False
+Florida_ksat_data_145,11,0.035,150.0,coarse,Florida_dataset26,Grunwald_2020,6.390908163,1.20283411,False
+Florida_ksat_data_146,11,0.035,150.0,coarse,Florida_dataset26,Grunwald_2020,2.258308813,1.268200227,False
+Florida_ksat_data_147,11,0.035,150.0,coarse,Florida_dataset27,Grunwald_2020,6.101133945,1.93994401,False
+Florida_ksat_data_148,11,0.035,150.0,coarse,Florida_dataset27,Grunwald_2020,4.873074598,2.609806337,False
+Florida_ksat_data_149,11,0.035,150.0,coarse,Florida_dataset27,Grunwald_2020,3.65091523,3.285551949,False
+Florida_ksat_data_150,11,0.035,150.0,coarse,Florida_dataset27,Grunwald_2020,2.796175656,3.379768797,False
+Florida_ksat_data_151,11,0.035,150.0,coarse,Florida_dataset27,Grunwald_2020,2.788384065,1.412363282,False
+Florida_ksat_data_152,11,0.035,150.0,coarse,Florida_dataset27,Grunwald_2020,3.008359755,2.573472682,False
+Florida_ksat_data_153,11,0.035,150.0,medium,Florida_dataset27,Grunwald_2020,2.490333848,1.10222477,False
+Florida_ksat_data_154,11,0.035,150.0,coarse,Florida_dataset28,Grunwald_2020,4.117836773,1.319271977,False
+Florida_ksat_data_155,11,0.035,150.0,coarse,Florida_dataset29,Grunwald_2020,3.261161635,1.819728182,False
+Florida_ksat_data_156,11,0.035,150.0,coarse,Florida_dataset28,Grunwald_2020,2.514949276,3.555436783,False
+Florida_ksat_data_157,11,0.035,150.0,coarse,Florida_dataset28,Grunwald_2020,2.640134088,3.996622024,False
+Florida_ksat_data_158,11,0.035,150.0,coarse,Florida_dataset28,Grunwald_2020,2.059334242,3.782455857,False
+Florida_ksat_data_159,11,0.035,150.0,coarse,Florida_dataset28,Grunwald_2020,1.072061856,1.446512732,False
+Florida_ksat_data_160,11,0.035,150.0,coarse,Florida_dataset29,Grunwald_2020,2.268033274,3.444235865,False
+Florida_ksat_data_1608,11,0.035,150.0,coarse,Florida_dataset276,Grunwald_2020,1.83833578,1.263002754,False
+Florida_ksat_data_1609,11,0.035,150.0,coarse,Florida_dataset276,Grunwald_2020,0.442513688,1.318109442,False
+Florida_ksat_data_1610,11,0.035,150.0,coarse,Florida_dataset277,Grunwald_2020,2.637875609,3.38938925,False
+Florida_ksat_data_1611,11,0.035,150.0,coarse,Florida_dataset277,Grunwald_2020,2.304163056,5.11308793,False
+Florida_ksat_data_1612,11,0.035,150.0,coarse,Florida_dataset277,Grunwald_2020,2.30417319,5.114172682,False
+Florida_ksat_data_1613,11,0.035,150.0,coarse,Florida_dataset277,Grunwald_2020,0.391933987,2.607001683,False
+Florida_ksat_data_1614,11,0.035,150.0,coarse,Florida_dataset277,Grunwald_2020,2.362534016,3.33528157,False
+Florida_ksat_data_1615,11,0.035,150.0,coarse,Florida_dataset277,Grunwald_2020,1.151908261,1.107717412,False
+Florida_ksat_data_1616,11,0.035,150.0,coarse,Florida_dataset277,Grunwald_2020,1.283628307,1.779571889,False
+Florida_ksat_data_1617,11,0.035,150.0,coarse,Florida_dataset277,Grunwald_2020,1.248486438,1.795342427,False
+Florida_ksat_data_1618,11,0.035,150.0,coarse,Florida_dataset278,Grunwald_2020,2.961578517,3.518141164,False
+Florida_ksat_data_1619,11,0.035,150.0,coarse,Florida_dataset278,Grunwald_2020,2.407688547,5.482994119,False
+Florida_ksat_data_1620,11,0.035,150.0,coarse,Florida_dataset278,Grunwald_2020,2.346477146,4.415398354,False
+Florida_ksat_data_1621,11,0.035,150.0,coarse,Florida_dataset278,Grunwald_2020,0.160417415,1.447709261,False
+Florida_ksat_data_1622,11,0.035,150.0,coarse,Florida_dataset278,Grunwald_2020,2.588370773,2.265279928,False
+Florida_ksat_data_1623,11,0.035,150.0,coarse,Florida_dataset278,Grunwald_2020,2.006583547,1.922664539,False
+Florida_ksat_data_1624,11,0.035,150.0,coarse,Florida_dataset279,Grunwald_2020,4.889449349,2.898426154,False
+Florida_ksat_data_1625,11,0.035,150.0,coarse,Florida_dataset279,Grunwald_2020,3.677690375,3.931531136,False
+Florida_ksat_data_1626,11,0.035,150.0,coarse,Florida_dataset279,Grunwald_2020,3.294734598,4.214704325,False
+Florida_ksat_data_1627,11,0.035,150.0,coarse,Florida_dataset279,Grunwald_2020,3.012551458,3.504183768,False
+Florida_ksat_data_1628,11,0.035,150.0,coarse,Florida_dataset279,Grunwald_2020,3.359536802,1.31566434,False
+Florida_ksat_data_1629,11,0.035,150.0,coarse,Florida_dataset279,Grunwald_2020,3.255578336,1.200473492,False
+Florida_ksat_data_1630,11,0.035,150.0,coarse,Florida_dataset279,Grunwald_2020,4.065265551,1.545334116,False
+Florida_ksat_data_1631,11,0.035,150.0,coarse,Florida_dataset279,Grunwald_2020,3.42183681,3.121970789,False
+Florida_ksat_data_1632,11,0.035,150.0,coarse,Florida_dataset280,Grunwald_2020,4.421073496,3.136243404,False
+Florida_ksat_data_1633,11,0.035,150.0,coarse,Florida_dataset280,Grunwald_2020,3.441919755,3.884551687,False
+Florida_ksat_data_1634,11,0.035,150.0,coarse,Florida_dataset280,Grunwald_2020,4.081903181,3.713162058,False
+Florida_ksat_data_1635,11,0.035,150.0,coarse,Florida_dataset280,Grunwald_2020,3.623037964,4.219777693,False
+Florida_ksat_data_1636,11,0.035,150.0,coarse,Florida_dataset280,Grunwald_2020,2.895989374,5.029996365,False
+Florida_ksat_data_1637,11,0.035,150.0,coarse,Florida_dataset280,Grunwald_2020,0.353938153,1.313455745,False
+Florida_ksat_data_1638,11,0.035,150.0,coarse,Florida_dataset280,Grunwald_2020,3.105612276,1.588082368,False
+Florida_ksat_data_1639,11,0.035,150.0,coarse,Florida_dataset281,Grunwald_2020,3.787289342,3.474983795,False
+Florida_ksat_data_1640,11,0.035,150.0,coarse,Florida_dataset281,Grunwald_2020,4.001663114,3.121532986,False
+Florida_ksat_data_1641,11,0.035,150.0,coarse,Florida_dataset281,Grunwald_2020,2.967931677,2.295297763,False
+Florida_ksat_data_1642,11,0.035,150.0,coarse,Florida_dataset281,Grunwald_2020,2.876612551,3.135092965,False
+Florida_ksat_data_1643,11,0.035,150.0,coarse,Florida_dataset281,Grunwald_2020,2.192267963,5.747558168,False
+Florida_ksat_data_1644,11,0.035,150.0,coarse,Florida_dataset281,Grunwald_2020,8.314500438,1.18988205,False
+Florida_ksat_data_1645,11,0.035,150.0,coarse,Florida_dataset276,Grunwald_2020,0.79699622,1.359455979,False
+Florida_ksat_data_1646,11,0.035,150.0,medium,Florida_dataset276,Grunwald_2020,0.379078745,1.281401475,False
+Florida_ksat_data_1647,11,0.035,150.0,medium,Florida_dataset276,Grunwald_2020,0.742643072,1.162019401,False
+Florida_ksat_data_1656,11,0.035,150.0,coarse,Florida_dataset284,Grunwald_2020,4.460305876,4.794557132,False
+Florida_ksat_data_1657,11,0.035,150.0,coarse,Florida_dataset284,Grunwald_2020,4.227586668,5.908816091,False
+Florida_ksat_data_1658,11,0.035,150.0,coarse,Florida_dataset284,Grunwald_2020,4.428148499,4.593598751,False
+Florida_ksat_data_1659,11,0.035,150.0,coarse,Florida_dataset284,Grunwald_2020,3.504017073,4.595051683,False
+Florida_ksat_data_1660,11,0.035,150.0,coarse,Florida_dataset285,Grunwald_2020,4.628354033,3.503009152,False
+Florida_ksat_data_1661,11,0.035,150.0,coarse,Florida_dataset285,Grunwald_2020,4.599539012,4.078564456,False
+Florida_ksat_data_1662,11,0.035,150.0,coarse,Florida_dataset285,Grunwald_2020,4.113215902,3.179104786,False
+Florida_ksat_data_1663,11,0.035,150.0,coarse,Florida_dataset285,Grunwald_2020,3.570340756,3.545471166,False
+Florida_ksat_data_1664,11,0.035,150.0,coarse,Florida_dataset285,Grunwald_2020,2.917604747,1.42109692,False
+Florida_ksat_data_1665,11,0.035,150.0,coarse,Florida_dataset286,Grunwald_2020,6.334904061,2.406421536,False
+Florida_ksat_data_1666,11,0.035,150.0,coarse,Florida_dataset286,Grunwald_2020,6.854836759,2.917739305,False
+Florida_ksat_data_1667,11,0.035,150.0,coarse,Florida_dataset286,Grunwald_2020,14.01075431,2.21897575,False
+Florida_ksat_data_1668,11,0.035,150.0,coarse,Florida_dataset286,Grunwald_2020,7.291233424,2.910825633,False
+Florida_ksat_data_1669,11,0.035,150.0,coarse,Florida_dataset287,Grunwald_2020,1.955611715,4.566080986,False
+Florida_ksat_data_1671,11,0.035,150.0,coarse,Florida_dataset287,Grunwald_2020,2.466914141,3.810475481,False
+Florida_ksat_data_1672,11,0.035,150.0,coarse,Florida_dataset287,Grunwald_2020,2.122149097,4.833165515,False
+Florida_ksat_data_1674,11,0.035,150.0,coarse,Florida_dataset287,Grunwald_2020,2.015074241,3.696993164,False
+Florida_ksat_data_1675,11,0.035,150.0,coarse,Florida_dataset287,Grunwald_2020,1.633875168,5.801746938,False
+Florida_ksat_data_1676,11,0.035,150.0,coarse,Florida_dataset288,Grunwald_2020,4.057119056,1.979401873,False
+Florida_ksat_data_1677,11,0.035,150.0,coarse,Florida_dataset288,Grunwald_2020,2.708845979,3.338397836,False
+Florida_ksat_data_1678,11,0.035,150.0,coarse,Florida_dataset288,Grunwald_2020,2.611733555,2.478089666,False
+Florida_ksat_data_1679,11,0.035,150.0,coarse,Florida_dataset288,Grunwald_2020,2.544070108,1.836423691,False
+Florida_ksat_data_1680,11,0.035,150.0,coarse,Florida_dataset289,Grunwald_2020,3.02995378,1.48932585,False
+Florida_ksat_data_1681,11,0.035,150.0,coarse,Florida_dataset289,Grunwald_2020,3.88527137,1.989548864,False
+Florida_ksat_data_1682,11,0.035,150.0,coarse,Florida_dataset289,Grunwald_2020,4.432836556,1.574953141,False
+Florida_ksat_data_1683,11,0.035,150.0,coarse,Florida_dataset289,Grunwald_2020,4.92249505,1.285353324,False
+Florida_ksat_data_1686,11,0.035,150.0,coarse,Florida_dataset290,Grunwald_2020,2.221027942,1.547610393,False
+Florida_ksat_data_1705,11,0.035,150.0,coarse,Florida_dataset294,Grunwald_2020,3.194707616,2.503431538,False
+Florida_ksat_data_1706,11,0.035,150.0,coarse,Florida_dataset294,Grunwald_2020,2.784809755,1.942283679,False
+Florida_ksat_data_1707,11,0.035,150.0,medium,Florida_dataset295,Grunwald_2020,1.37786143,4.132400565,False
+Florida_ksat_data_1718,11,0.035,150.0,medium,Florida_dataset294,Grunwald_2020,0.679354833,1.652670541,False
+Florida_ksat_data_1719,11,0.035,150.0,medium,Florida_dataset294,Grunwald_2020,2.232308294,2.283017104,False
+Florida_ksat_data_1720,11,0.035,150.0,coarse,Florida_dataset294,Grunwald_2020,2.18169947,1.556108131,False
+Florida_ksat_data_1722,11,0.035,150.0,coarse,Florida_dataset299,Grunwald_2020,3.969892216,2.64280005,False
+Florida_ksat_data_1723,11,0.035,150.0,coarse,Florida_dataset299,Grunwald_2020,4.814422596,2.092462175,True
+Florida_ksat_data_1724,11,0.035,150.0,coarse,Florida_dataset299,Grunwald_2020,3.906587746,1.491043213,False
+Florida_ksat_data_1725,11,0.035,150.0,medium,Florida_dataset299,Grunwald_2020,25.87474195,1.073378959,False
+Florida_ksat_data_1726,11,0.035,150.0,coarse,Florida_dataset299,Grunwald_2020,14.04133909,1.241727482,False
+Florida_ksat_data_1727,11,0.035,150.0,coarse,Florida_dataset299,Grunwald_2020,8.047735588,1.143808475,False
+Florida_ksat_data_1728,11,0.035,150.0,coarse,Florida_dataset299,Grunwald_2020,2.204180822,1.477850937,False
+Florida_ksat_data_1729,11,0.035,150.0,coarse,Florida_dataset300,Grunwald_2020,4.252781781,2.262880176,False
+Florida_ksat_data_1730,11,0.035,150.0,coarse,Florida_dataset300,Grunwald_2020,2.782103639,2.960907986,False
+Florida_ksat_data_1731,11,0.035,150.0,coarse,Florida_dataset300,Grunwald_2020,1.848640455,3.805474859,False
+Florida_ksat_data_1732,11,0.035,150.0,coarse,Florida_dataset300,Grunwald_2020,1.994821039,4.036535074,False
+Florida_ksat_data_1733,11,0.035,150.0,coarse,Florida_dataset300,Grunwald_2020,5.871414836,1.664965482,False
+Florida_ksat_data_1735,11,0.035,150.0,coarse,Florida_dataset295,Grunwald_2020,4.593246302,1.328528157,False
+Florida_ksat_data_1736,11,0.035,150.0,coarse,Florida_dataset295,Grunwald_2020,1.846270849,1.205902395,False
+Florida_ksat_data_1737,11,0.035,150.0,coarse,Florida_dataset295,Grunwald_2020,0.891989325,1.219496235,False
+Florida_ksat_data_1738,11,0.035,150.0,medium,Florida_dataset295,Grunwald_2020,3.428266499,1.301681398,False
+Florida_ksat_data_1739,11,0.035,150.0,coarse,Florida_dataset295,Grunwald_2020,5.554675816,1.584692961,False
+Florida_ksat_data_1740,11,0.035,150.0,medium,Florida_dataset295,Grunwald_2020,1.888735324,2.661544148,False
+Florida_ksat_data_1742,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,2.248262503,2.780757823,False
+Florida_ksat_data_1743,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,2.341840655,3.245301219,False
+Florida_ksat_data_1744,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,1.977409323,3.923023064,False
+Florida_ksat_data_1745,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,1.919840962,3.239854704,False
+Florida_ksat_data_1746,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,1.717687015,1.729982536,False
+Florida_ksat_data_1747,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,0.471776892,1.377692985,False
+Florida_ksat_data_1748,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,0.516048532,1.511270503,False
+Florida_ksat_data_1749,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,0.693902898,2.345278672,False
+Florida_ksat_data_1750,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,0.96498569,2.499253345,False
+Florida_ksat_data_1751,11,0.035,150.0,coarse,Florida_dataset301,Grunwald_2020,0.314847886,1.287862315,False
+Florida_ksat_data_1752,11,0.035,150.0,coarse,Florida_dataset302,Grunwald_2020,5.047892357,1.265831061,False
+Florida_ksat_data_1753,11,0.035,150.0,coarse,Florida_dataset302,Grunwald_2020,24.7869665,1.292003657,False
+Florida_ksat_data_1754,11,0.035,150.0,coarse,Florida_dataset302,Grunwald_2020,12.87975878,1.210470685,False
+Florida_ksat_data_1755,11,0.035,150.0,coarse,Florida_dataset302,Grunwald_2020,1.780323119,1.348204862,False
+Florida_ksat_data_1756,11,0.035,150.0,coarse,Florida_dataset302,Grunwald_2020,0.722474803,1.333957891,False
+Florida_ksat_data_1757,11,0.035,150.0,coarse,Florida_dataset302,Grunwald_2020,3.435791359,1.158032277,False
+Florida_ksat_data_1758,11,0.035,150.0,medium,Florida_dataset302,Grunwald_2020,0.550727376,1.132254867,False
+Florida_ksat_data_1759,11,0.035,150.0,coarse,Florida_dataset303,Grunwald_2020,6.815668203,1.191132645,False
+Florida_ksat_data_1760,11,0.035,150.0,coarse,Florida_dataset303,Grunwald_2020,4.571655446,1.657399637,False
+Florida_ksat_data_1761,11,0.035,150.0,coarse,Florida_dataset303,Grunwald_2020,2.444233951,1.258043757,False
+Florida_ksat_data_1762,11,0.035,150.0,coarse,Florida_dataset303,Grunwald_2020,1.463220261,1.241207387,False
+Florida_ksat_data_1763,11,0.035,150.0,coarse,Florida_dataset303,Grunwald_2020,2.572627887,1.139426337,False
+Florida_ksat_data_1764,11,0.035,150.0,coarse,Florida_dataset303,Grunwald_2020,4.095103567,1.163253982,False
+Florida_ksat_data_1765,11,0.035,150.0,coarse,Florida_dataset304,Grunwald_2020,3.502633053,2.10243984,False
+Florida_ksat_data_1766,11,0.035,150.0,coarse,Florida_dataset304,Grunwald_2020,3.004360741,3.087370201,False
+Florida_ksat_data_1767,11,0.035,150.0,coarse,Florida_dataset304,Grunwald_2020,2.209461329,3.590765982,False
+Florida_ksat_data_1768,11,0.035,150.0,coarse,Florida_dataset304,Grunwald_2020,1.467186206,1.240129849,False
+Florida_ksat_data_1769,11,0.035,150.0,coarse,Florida_dataset304,Grunwald_2020,1.252433944,1.2284846,False
+Florida_ksat_data_1770,11,0.035,150.0,coarse,Florida_dataset304,Grunwald_2020,0.844374584,1.414224547,False
+Florida_ksat_data_1771,11,0.035,150.0,coarse,Florida_dataset305,Grunwald_2020,5.500150222,1.496267542,False
+Florida_ksat_data_1772,11,0.035,150.0,coarse,Florida_dataset305,Grunwald_2020,6.897345277,1.421174562,False
+Florida_ksat_data_1773,11,0.035,150.0,coarse,Florida_dataset305,Grunwald_2020,2.707509402,2.925613281,False
+Florida_ksat_data_1774,11,0.035,150.0,coarse,Florida_dataset305,Grunwald_2020,2.380015745,4.783007952,False
+Florida_ksat_data_1775,11,0.035,150.0,coarse,Florida_dataset305,Grunwald_2020,2.320485546,4.315589285,False
+Florida_ksat_data_1776,11,0.035,150.0,coarse,Florida_dataset305,Grunwald_2020,1.301435944,1.163897137,False
+Florida_ksat_data_1780,11,0.035,150.0,medium,Florida_dataset308,Grunwald_2020,2.135552159,1.146212194,False
+Florida_ksat_data_1781,11,0.035,150.0,medium,Florida_dataset308,Grunwald_2020,3.198438378,1.117846571,False
+Florida_ksat_data_1782,11,0.035,150.0,medium,Florida_dataset309,Grunwald_2020,11.0702017,1.206217509,False
+Florida_ksat_data_1783,11,0.035,150.0,coarse,Florida_dataset309,Grunwald_2020,2.111737977,1.694619138,False
+Florida_ksat_data_1786,11,0.035,150.0,medium,Florida_dataset311,Grunwald_2020,4.281011949,1.10015273,False
+Florida_ksat_data_1788,11,0.035,150.0,medium,Florida_dataset311,Grunwald_2020,0.899178301,1.439647165,False
+Florida_ksat_data_1789,11,0.035,150.0,coarse,Florida_dataset312,Grunwald_2020,5.13519836,2.105518528,False
+Florida_ksat_data_1790,11,0.035,150.0,coarse,Florida_dataset312,Grunwald_2020,3.734735801,4.100893976,False
+Florida_ksat_data_1791,11,0.035,150.0,coarse,Florida_dataset312,Grunwald_2020,3.533488501,3.969495005,False
+Florida_ksat_data_1793,11,0.035,150.0,medium,Florida_dataset313,Grunwald_2020,1.818226407,1.268549909,False
+Florida_ksat_data_1794,11,0.035,150.0,medium,Florida_dataset313,Grunwald_2020,1.289842998,1.210818282,False
+Florida_ksat_data_2284,11,0.035,150.0,coarse,Florida_dataset392,Grunwald_2020,2.484647122,3.579780865,False
+Florida_ksat_data_2286,11,0.035,150.0,coarse,Florida_dataset392,Grunwald_2020,1.572635619,3.92933966,False
+Florida_ksat_data_2287,11,0.035,150.0,coarse,Florida_dataset392,Grunwald_2020,3.021691766,4.624055404,False
+Florida_ksat_data_2288,11,0.035,150.0,coarse,Florida_dataset392,Grunwald_2020,2.947401023,1.990524548,False
+Florida_ksat_data_2289,11,0.035,150.0,coarse,Florida_dataset392,Grunwald_2020,2.678171501,4.384120269,False
+Florida_ksat_data_2290,11,0.035,150.0,coarse,Florida_dataset393,Grunwald_2020,1.416088695,1.872615086,False
+Florida_ksat_data_2291,11,0.035,150.0,coarse,Florida_dataset393,Grunwald_2020,1.63109776,1.354429585,False
+Florida_ksat_data_2292,11,0.035,150.0,coarse,Florida_dataset393,Grunwald_2020,0.659466991,1.4901646,False
+Florida_ksat_data_2293,11,0.035,150.0,coarse,Florida_dataset393,Grunwald_2020,1.090975287,1.696140766,False
+Florida_ksat_data_2294,11,0.035,150.0,coarse,Florida_dataset394,Grunwald_2020,0.652250228,1.333403823,False
+Florida_ksat_data_2295,11,0.035,150.0,coarse,Florida_dataset394,Grunwald_2020,3.386145936,1.860406005,False
+Florida_ksat_data_2296,11,0.035,150.0,coarse,Florida_dataset394,Grunwald_2020,3.164595282,3.762918335,False
+Florida_ksat_data_2300,11,0.035,150.0,coarse,Florida_dataset395,Grunwald_2020,1.316353412,1.44145535,False
+Florida_ksat_data_2301,11,0.035,150.0,coarse,Florida_dataset395,Grunwald_2020,4.462697298,1.876822468,False
+Florida_ksat_data_2302,11,0.035,150.0,coarse,Florida_dataset395,Grunwald_2020,3.760664706,3.269025537,False
+Florida_ksat_data_2303,11,0.035,150.0,coarse,Florida_dataset395,Grunwald_2020,2.76882466,5.527940117,False
+Florida_ksat_data_2304,11,0.035,150.0,coarse,Florida_dataset396,Grunwald_2020,3.294156366,1.722159825,False
+Florida_ksat_data_2305,11,0.035,150.0,coarse,Florida_dataset396,Grunwald_2020,3.130746695,5.57058923,False
+Florida_ksat_data_2306,11,0.035,150.0,coarse,Florida_dataset396,Grunwald_2020,3.406135937,4.694918252,False
+Florida_ksat_data_2307,11,0.035,150.0,coarse,Florida_dataset396,Grunwald_2020,5.171106734,1.95496988,False
+Florida_ksat_data_2308,11,0.035,150.0,coarse,Florida_dataset396,Grunwald_2020,3.703928433,1.790712374,False
+Florida_ksat_data_2309,11,0.035,150.0,coarse,Florida_dataset396,Grunwald_2020,4.875325358,1.796441006,False
+Florida_ksat_data_2310,11,0.035,150.0,coarse,Florida_dataset396,Grunwald_2020,3.652521948,3.590633896,False
+Florida_ksat_data_2311,11,0.035,150.0,coarse,Florida_dataset396,Grunwald_2020,3.080007175,5.359632582,False
+Florida_ksat_data_2315,11,0.035,150.0,coarse,Florida_dataset397,Grunwald_2020,2.779339206,3.281046631,False
+Florida_ksat_data_2316,11,0.035,150.0,coarse,Florida_dataset398,Grunwald_2020,4.429755467,2.070451564,False
+Florida_ksat_data_2317,11,0.035,150.0,coarse,Florida_dataset398,Grunwald_2020,3.31033054,4.174963823,False
+Florida_ksat_data_2318,11,0.035,150.0,coarse,Florida_dataset399,Grunwald_2020,1.312838407,1.278852304,False
+Florida_ksat_data_2319,11,0.035,150.0,coarse,Florida_dataset399,Grunwald_2020,1.480676675,1.203636754,False
+Florida_ksat_data_2328,11,0.035,150.0,coarse,Florida_dataset404,Grunwald_2020,4.150221458,1.797201575,False
+Florida_ksat_data_2329,11,0.035,150.0,coarse,Florida_dataset404,Grunwald_2020,2.123302117,1.848873952,False
+Florida_ksat_data_2330,11,0.035,150.0,coarse,Florida_dataset404,Grunwald_2020,2.928717962,3.243891816,False
+Florida_ksat_data_2331,11,0.035,150.0,coarse,Florida_dataset405,Grunwald_2020,3.154497089,2.536910555,False
+Florida_ksat_data_2334,11,0.035,150.0,coarse,Florida_dataset405,Grunwald_2020,3.35553743,6.631999703,False
+Florida_ksat_data_2335,11,0.035,150.0,coarse,Florida_dataset406,Grunwald_2020,4.247506475,4.024571637,False
+Florida_ksat_data_2336,11,0.035,150.0,coarse,Florida_dataset406,Grunwald_2020,3.322682139,4.010978908,False
+Florida_ksat_data_2337,11,0.035,150.0,coarse,Florida_dataset406,Grunwald_2020,3.861774432,4.9359061,False
+Florida_ksat_data_2338,11,0.035,150.0,coarse,Florida_dataset406,Grunwald_2020,3.861774315,4.935906524,False
+Florida_ksat_data_2339,11,0.035,150.0,coarse,Florida_dataset406,Grunwald_2020,3.293146115,3.71433889,False
+Florida_ksat_data_2340,11,0.035,150.0,coarse,Florida_dataset406,Grunwald_2020,4.03229231,5.935622244,False
+Florida_ksat_data_2341,11,0.035,150.0,coarse,Florida_dataset398,Grunwald_2020,3.452820803,4.082019863,False
+Florida_ksat_data_2342,11,0.035,150.0,coarse,Florida_dataset398,Grunwald_2020,0.546180736,1.180246697,False
+Florida_ksat_data_2343,11,0.035,150.0,coarse,Florida_dataset407,Grunwald_2020,3.571228641,2.877482205,False
+Florida_ksat_data_2347,11,0.035,150.0,coarse,Florida_dataset409,Grunwald_2020,2.501994323,2.096730569,False
+Florida_ksat_data_2348,11,0.035,150.0,coarse,Florida_dataset409,Grunwald_2020,2.459750118,5.118815741,False
+Florida_ksat_data_2349,11,0.035,150.0,coarse,Florida_dataset409,Grunwald_2020,48.76048781,1.031776545,False
+Florida_ksat_data_2350,11,0.035,150.0,coarse,Florida_dataset409,Grunwald_2020,2.484623504,3.039771546,False
+Florida_ksat_data_2351,11,0.035,150.0,coarse,Florida_dataset409,Grunwald_2020,2.274744451,5.011046245,False
+Florida_ksat_data_2352,11,0.035,150.0,coarse,Florida_dataset409,Grunwald_2020,0.958282761,1.771840787,False
+Florida_ksat_data_2353,11,0.035,150.0,coarse,Florida_dataset399,Grunwald_2020,7.751481453,1.238547938,False
+Florida_ksat_data_2354,11,0.035,150.0,fine,Florida_dataset399,Grunwald_2020,2.256533302,1.527965843,False
+Florida_ksat_data_2356,11,0.035,150.0,coarse,Florida_dataset410,Grunwald_2020,3.425006936,1.442766238,False
+Florida_ksat_data_2357,11,0.035,150.0,coarse,Florida_dataset410,Grunwald_2020,2.237430322,3.620077205,False
+Florida_ksat_data_2358,11,0.035,150.0,coarse,Florida_dataset410,Grunwald_2020,0.489586481,1.157948165,False
+Florida_ksat_data_2359,11,0.035,150.0,coarse,Florida_dataset410,Grunwald_2020,0.703275588,1.619520722,False
+Florida_ksat_data_2360,11,0.035,150.0,coarse,Florida_dataset411,Grunwald_2020,2.668922762,4.110629499,False
+Florida_ksat_data_2361,11,0.035,150.0,coarse,Florida_dataset411,Grunwald_2020,2.913093435,4.535285223,False
+Florida_ksat_data_2362,11,0.035,150.0,coarse,Florida_dataset411,Grunwald_2020,2.571854351,5.871638745,False
+Florida_ksat_data_2364,11,0.035,150.0,medium,Florida_dataset411,Grunwald_2020,0.601205988,1.139088849,False
+Florida_ksat_data_2365,11,0.035,150.0,coarse,Florida_dataset412,Grunwald_2020,2.656494604,3.142606999,False
+Florida_ksat_data_2366,11,0.035,150.0,coarse,Florida_dataset412,Grunwald_2020,2.575580772,4.92318726,False
+Florida_ksat_data_2368,11,0.035,150.0,coarse,Florida_dataset412,Grunwald_2020,2.165308461,5.770682024,False
+Florida_ksat_data_2369,11,0.035,150.0,coarse,Florida_dataset412,Grunwald_2020,1.456894014,2.291525724,False
+Florida_ksat_data_2370,11,0.035,150.0,coarse,Florida_dataset412,Grunwald_2020,0.587405532,1.288981771,False
+Florida_ksat_data_4316,11,0.035,150.0,coarse,Florida_dataset11,Grunwald_2020,3.745226947,4.044224557,False
+Florida_ksat_data_4317,11,0.035,150.0,coarse,Florida_dataset11,Grunwald_2020,1.577414865,1.769742135,False
+Florida_ksat_data_4320,11,0.035,150.0,coarse,Florida_dataset21,Grunwald_2020,1.751510417,3.717214099,False
+Florida_ksat_data_4323,11,0.035,150.0,coarse,Florida_dataset14,Grunwald_2020,3.996852582,3.710614743,False
+Florida_ksat_data_4326,11,0.035,150.0,coarse,Florida_dataset14,Grunwald_2020,2.756219148,5.493361959,False
+Florida_ksat_data_4327,11,0.035,150.0,coarse,Florida_dataset15,Grunwald_2020,2.426137298,3.341463093,False
+Florida_ksat_data_4329,11,0.035,150.0,coarse,Florida_dataset23,Grunwald_2020,3.147325149,1.506935592,False
+Florida_ksat_data_4330,11,0.035,150.0,coarse,Florida_dataset17,Grunwald_2020,5.084602601,1.945052877,False
+Florida_ksat_data_4388,11,0.035,150.0,coarse,Florida_dataset190,Grunwald_2020,2.489223329,4.564882125,False
+Florida_ksat_data_4392,11,0.035,150.0,coarse,Florida_dataset190,Grunwald_2020,2.448442911,3.062643293,False
+Florida_ksat_data_4396,11,0.035,150.0,coarse,Florida_dataset193,Grunwald_2020,0.439760325,1.330428953,False
+Florida_ksat_data_4400,11,0.035,150.0,coarse,Florida_dataset194,Grunwald_2020,2.474406246,2.478619099,False
+Florida_ksat_data_4890,11,0.035,150.0,medium,Florida_dataset819,Grunwald_2020,1.299163198,1.091640913,False
+Florida_ksat_data_4891,11,0.035,150.0,medium,Florida_dataset819,Grunwald_2020,1.422341331,1.098961196,False
+Florida_ksat_data_4892,11,0.035,150.0,medium,Florida_dataset819,Grunwald_2020,0.204872796,1.384526156,False
+Florida_ksat_data_4893,11,0.035,150.0,medium,Florida_dataset819,Grunwald_2020,0.136906971,1.559815867,False
+Florida_ksat_data_4894,11,0.035,150.0,medium,Florida_dataset819,Grunwald_2020,0.249761084,1.651885308,False
+Florida_ksat_data_4895,11,0.035,150.0,coarse,Florida_dataset819,Grunwald_2020,0.604275795,1.392845396,False
+Florida_ksat_data_4896,11,0.035,150.0,coarse,Florida_dataset819,Grunwald_2020,1.934381861,1.846253044,False
+Florida_ksat_data_4897,11,0.035,150.0,coarse,Florida_dataset820,Grunwald_2020,3.07561365,3.758620016,False
+Florida_ksat_data_4898,11,0.035,150.0,coarse,Florida_dataset820,Grunwald_2020,3.345448665,5.323707741,False
+Florida_ksat_data_4899,11,0.035,150.0,coarse,Florida_dataset820,Grunwald_2020,3.204659336,5.24390064,False
+Florida_ksat_data_49,11,0.035,150.0,coarse,Florida_dataset11,Grunwald_2020,3.16674053,3.317958688,False
+Florida_ksat_data_4900,11,0.035,150.0,coarse,Florida_dataset820,Grunwald_2020,3.308232467,3.899396391,False
+Florida_ksat_data_4901,11,0.035,150.0,coarse,Florida_dataset820,Grunwald_2020,3.393183567,4.04664329,False
+Florida_ksat_data_4902,11,0.035,150.0,coarse,Florida_dataset821,Grunwald_2020,4.818210662,3.796023201,False
+Florida_ksat_data_4903,11,0.035,150.0,coarse,Florida_dataset821,Grunwald_2020,4.953334563,3.836917854,False
+Florida_ksat_data_4904,11,0.035,150.0,coarse,Florida_dataset821,Grunwald_2020,3.646244471,5.603041524,False
+Florida_ksat_data_4905,11,0.035,150.0,coarse,Florida_dataset821,Grunwald_2020,3.882462511,4.493120404,False
+Florida_ksat_data_4906,11,0.035,150.0,coarse,Florida_dataset821,Grunwald_2020,2.887040885,1.960477954,False
+Florida_ksat_data_4907,11,0.035,150.0,coarse,Florida_dataset822,Grunwald_2020,2.942753034,3.645667384,False
+Florida_ksat_data_4908,11,0.035,150.0,coarse,Florida_dataset822,Grunwald_2020,3.198241547,5.622023017,False
+Florida_ksat_data_4909,11,0.035,150.0,coarse,Florida_dataset822,Grunwald_2020,3.250844002,1.648336747,False
+Florida_ksat_data_50,11,0.035,150.0,coarse,Florida_dataset12,Grunwald_2020,3.27629186,3.68884399,False
+Florida_ksat_data_5035,11,0.035,150.0,coarse,Florida_dataset844,Grunwald_2020,2.325238315,4.194722867,False
+Florida_ksat_data_5036,11,0.035,150.0,coarse,Florida_dataset844,Grunwald_2020,2.307337425,5.436391294,False
+Florida_ksat_data_5037,11,0.035,150.0,coarse,Florida_dataset844,Grunwald_2020,2.21381383,5.749681656,False
+Florida_ksat_data_5038,11,0.035,150.0,coarse,Florida_dataset844,Grunwald_2020,2.217164213,5.340767716,False
+Florida_ksat_data_5060,11,0.035,150.0,coarse,Florida_dataset844,Grunwald_2020,1.625631164,1.347257152,False
+Florida_ksat_data_5061,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,1.992687719,5.097439876,False
+Florida_ksat_data_5062,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,2.214955025,4.445751621,False
+Florida_ksat_data_5063,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,2.545114116,2.105468273,False
+Florida_ksat_data_5064,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,2.569867939,2.082798813,False
+Florida_ksat_data_5065,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,2.344483671,3.328184933,False
+Florida_ksat_data_5066,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,2.223441434,3.659272102,False
+Florida_ksat_data_5067,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,2.215212757,2.346596446,False
+Florida_ksat_data_5068,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,1.829186748,4.263444239,False
+Florida_ksat_data_5069,11,0.035,150.0,coarse,Florida_dataset850,Grunwald_2020,1.861354067,2.903613477,False
+Florida_ksat_data_51,11,0.035,150.0,coarse,Florida_dataset12,Grunwald_2020,2.955602453,4.253160862,False
+Florida_ksat_data_52,11,0.035,150.0,coarse,Florida_dataset12,Grunwald_2020,3.225243696,3.941943922,False
+Florida_ksat_data_5278,11,0.035,150.0,medium,Florida_dataset886,Grunwald_2020,0.256644271,1.411356353,False
+Florida_ksat_data_5279,11,0.035,150.0,medium,Florida_dataset886,Grunwald_2020,0.11439863,1.666672697,False
+Florida_ksat_data_5280,11,0.035,150.0,medium,Florida_dataset886,Grunwald_2020,0.133310061,1.724162584,False
+Florida_ksat_data_5281,11,0.035,150.0,medium,Florida_dataset886,Grunwald_2020,0.142774704,1.646726184,False
+Florida_ksat_data_53,11,0.035,150.0,coarse,Florida_dataset12,Grunwald_2020,2.507981394,1.388558741,False
+Florida_ksat_data_5336,11,0.035,150.0,coarse,Florida_dataset897,Grunwald_2020,2.374819805,3.921977402,False
+Florida_ksat_data_5337,11,0.035,150.0,coarse,Florida_dataset897,Grunwald_2020,2.411691353,5.059966769,False
+Florida_ksat_data_5338,11,0.035,150.0,coarse,Florida_dataset897,Grunwald_2020,2.350330199,4.673730292,False
+Florida_ksat_data_5339,11,0.035,150.0,coarse,Florida_dataset897,Grunwald_2020,2.267643642,1.426991982,False
+Florida_ksat_data_5340,11,0.035,150.0,coarse,Florida_dataset898,Grunwald_2020,1.865265445,2.544337708,False
+Florida_ksat_data_5341,11,0.035,150.0,coarse,Florida_dataset898,Grunwald_2020,2.943721667,2.435714888,False
+Florida_ksat_data_5342,11,0.035,150.0,coarse,Florida_dataset899,Grunwald_2020,3.72904412,1.935162707,False
+Florida_ksat_data_5343,11,0.035,150.0,coarse,Florida_dataset899,Grunwald_2020,2.603839713,3.246611251,False
+Florida_ksat_data_5344,11,0.035,150.0,coarse,Florida_dataset899,Grunwald_2020,2.935210035,3.16908698,False
+Florida_ksat_data_5345,11,0.035,150.0,medium,Florida_dataset900,Grunwald_2020,8.09970609,1.263253407,False
+Florida_ksat_data_5346,11,0.035,150.0,coarse,Florida_dataset900,Grunwald_2020,5.883235959,1.334624061,False
+Florida_ksat_data_5347,11,0.035,150.0,coarse,Florida_dataset901,Grunwald_2020,3.662931907,1.433745069,False
+Florida_ksat_data_5348,11,0.035,150.0,coarse,Florida_dataset901,Grunwald_2020,3.623184459,1.657342379,False
+Florida_ksat_data_54,11,0.035,150.0,coarse,Florida_dataset11,Grunwald_2020,3.297498466,2.917624581,False
+Florida_ksat_data_5474,11,0.035,150.0,medium,Florida_dataset921,Grunwald_2020,0.165899164,1.640711285,False
+Florida_ksat_data_5475,11,0.035,150.0,medium,Florida_dataset921,Grunwald_2020,0.104139616,1.897744041,False
+Florida_ksat_data_5476,11,0.035,150.0,medium,Florida_dataset922,Grunwald_2020,0.141554571,1.723235155,False
+Florida_ksat_data_5477,11,0.035,150.0,medium,Florida_dataset922,Grunwald_2020,0.150826703,1.675699485,False
+Florida_ksat_data_5478,11,0.035,150.0,fine,Florida_dataset922,Grunwald_2020,0.633037317,1.420670627,False
+Florida_ksat_data_5479,11,0.035,150.0,medium,Florida_dataset923,Grunwald_2020,4.903524228,1.215835303,False
+Florida_ksat_data_5480,11,0.035,150.0,medium,Florida_dataset924,Grunwald_2020,0.164483521,1.612839772,False
+Florida_ksat_data_5481,11,0.035,150.0,medium,Florida_dataset924,Grunwald_2020,0.112270492,1.928102191,False
+Florida_ksat_data_5482,11,0.035,150.0,medium,Florida_dataset924,Grunwald_2020,0.100516821,2.033140602,False
+Florida_ksat_data_5483,11,0.035,150.0,medium,Florida_dataset925,Grunwald_2020,30.64159042,1.243425126,False
+Florida_ksat_data_5484,11,0.035,150.0,medium,Florida_dataset926,Grunwald_2020,10.03110586,1.195089772,False
+Florida_ksat_data_5485,11,0.035,150.0,coarse,Florida_dataset927,Grunwald_2020,2.921664181,1.580869912,False
+Florida_ksat_data_55,11,0.035,150.0,coarse,Florida_dataset11,Grunwald_2020,4.098935004,3.025982885,False
+Florida_ksat_data_56,11,0.035,150.0,coarse,Florida_dataset11,Grunwald_2020,3.331115606,4.416024243,False
+Florida_ksat_data_57,11,0.035,150.0,coarse,Florida_dataset11,Grunwald_2020,3.214376064,2.107116874,False
+Florida_ksat_data_58,11,0.035,150.0,coarse,Florida_dataset11,Grunwald_2020,3.810693516,2.389009052,False
+Florida_ksat_data_59,11,0.035,150.0,coarse,Florida_dataset13,Grunwald_2020,3.613118547,2.804495309,False
+Florida_ksat_data_60,11,0.035,150.0,coarse,Florida_dataset13,Grunwald_2020,2.566609709,3.874486977,False
+Florida_ksat_data_61,11,0.035,150.0,coarse,Florida_dataset13,Grunwald_2020,4.45144388,1.39915411,False
+Florida_ksat_data_62,11,0.035,150.0,coarse,Florida_dataset14,Grunwald_2020,3.607894421,3.05068683,False
+Florida_ksat_data_63,11,0.035,150.0,coarse,Florida_dataset13,Grunwald_2020,2.748381021,1.753075696,False
+Florida_ksat_data_64,11,0.035,150.0,medium,Florida_dataset13,Grunwald_2020,3.546691479,2.124309423,False
+Florida_ksat_data_66,11,0.035,150.0,coarse,Florida_dataset13,Grunwald_2020,3.408203525,1.620186028,False
+Florida_ksat_data_67,11,0.035,150.0,coarse,Florida_dataset13,Grunwald_2020,2.091765159,1.964512394,False
+Florida_ksat_data_68,11,0.035,150.0,medium,Florida_dataset15,Grunwald_2020,7.702280851,1.173152804,False
+Florida_ksat_data_69,11,0.035,150.0,coarse,Florida_dataset16,Grunwald_2020,2.279364437,4.043953804,False
+Florida_ksat_data_70,11,0.035,150.0,coarse,Florida_dataset16,Grunwald_2020,2.51726107,4.310780912,False
+Florida_ksat_data_71,11,0.035,150.0,coarse,Florida_dataset16,Grunwald_2020,2.371057738,4.103312252,False
+Florida_ksat_data_72,11,0.035,150.0,coarse,Florida_dataset16,Grunwald_2020,2.405192751,4.017053056,False
+Florida_ksat_data_74,11,0.035,150.0,coarse,Florida_dataset16,Grunwald_2020,2.476782277,1.684192208,False
+Florida_ksat_data_75,11,0.035,150.0,coarse,Florida_dataset17,Grunwald_2020,3.665360775,3.002154625,False
+Florida_ksat_data_76,11,0.035,150.0,coarse,Florida_dataset16,Grunwald_2020,0.943595439,1.944967091,False
+Florida_ksat_data_77,11,0.035,150.0,coarse,Florida_dataset18,Grunwald_2020,2.95173242,2.879968728,False
+Florida_ksat_data_78,11,0.035,150.0,coarse,Florida_dataset18,Grunwald_2020,2.451147872,4.030292371,False
+Florida_ksat_data_79,11,0.035,150.0,coarse,Florida_dataset18,Grunwald_2020,2.310578282,4.092303032,False
+Florida_ksat_data_80,11,0.035,150.0,coarse,Florida_dataset18,Grunwald_2020,1.855856303,2.436031213,False
+Florida_ksat_data_81,11,0.035,150.0,coarse,Florida_dataset18,Grunwald_2020,1.304329787,1.263756893,False
+Florida_ksat_data_82,11,0.035,150.0,coarse,Florida_dataset18,Grunwald_2020,0.759801294,1.61183864,False
+Florida_ksat_data_83,11,0.035,150.0,coarse,Florida_dataset19,Grunwald_2020,2.345995005,4.445699237,False
+Florida_ksat_data_84,11,0.035,150.0,coarse,Florida_dataset19,Grunwald_2020,2.283046765,5.741028402,False
+Florida_ksat_data_85,11,0.035,150.0,coarse,Florida_dataset19,Grunwald_2020,2.358029345,4.870607703,False
+Florida_ksat_data_86,11,0.035,150.0,coarse,Florida_dataset19,Grunwald_2020,2.418361974,5.524780598,False
+Florida_ksat_data_87,11,0.035,150.0,coarse,Florida_dataset19,Grunwald_2020,2.394097579,5.970467211,False
+Florida_ksat_data_88,11,0.035,150.0,coarse,Florida_dataset19,Grunwald_2020,1.654397597,1.757217522,False
+Florida_ksat_data_89,11,0.035,150.0,coarse,Florida_dataset19,Grunwald_2020,3.939240206,1.55392792,False
+Florida_ksat_data_90,11,0.035,150.0,coarse,Florida_dataset20,Grunwald_2020,3.334554993,3.253000897,False
+Florida_ksat_data_908,11,0.035,150.0,coarse,Florida_dataset158,Grunwald_2020,2.21679673,4.109573014,False
+Florida_ksat_data_909,11,0.035,150.0,coarse,Florida_dataset158,Grunwald_2020,1.624195491,1.212278459,False
+Florida_ksat_data_91,11,0.035,150.0,coarse,Florida_dataset20,Grunwald_2020,3.243724238,4.077600212,False
+Florida_ksat_data_92,11,0.035,150.0,coarse,Florida_dataset20,Grunwald_2020,3.375092893,3.390936331,False
+Florida_ksat_data_93,11,0.035,150.0,coarse,Florida_dataset20,Grunwald_2020,3.269949013,2.34978295,False
+Florida_ksat_data_94,11,0.035,150.0,coarse,Florida_dataset20,Grunwald_2020,3.187014001,4.079681612,False
+Florida_ksat_data_95,11,0.035,150.0,coarse,Florida_dataset20,Grunwald_2020,3.548416876,1.602685478,False
+Florida_ksat_data_96,11,0.035,150.0,coarse,Florida_dataset21,Grunwald_2020,1.732889676,2.600188319,False
+Florida_ksat_data_97,11,0.035,150.0,medium,Florida_dataset21,Grunwald_2020,0.848937841,1.123405633,False
+Florida_ksat_data_98,11,0.035,150.0,medium,Florida_dataset21,Grunwald_2020,2.02288814,1.145281686,False
+Florida_ksat_data_99,11,0.035,150.0,coarse,Florida_dataset21,Grunwald_2020,1.230933188,1.162422448,False
+Florida_ksat_data_997,11,0.035,150.0,coarse,Florida_dataset172,Grunwald_2020,1.505649772,2.325972904,False
+Florida_ksat_data_998,11,0.035,150.0,coarse,Florida_dataset172,Grunwald_2020,1.506961725,3.032192955,False
+Florida_ksat_data_999,11,0.035,150.0,coarse,Florida_dataset173,Grunwald_2020,2.796733942,3.791545076,False
+GA wasp_1_2,7,0.01,158.4893192,fine,GA wasp_1,Leenaars_et_al_2014,10.90717531,1.366060908,False
+GA wasp_1_3,6,0.01,158.4893192,fine,GA wasp_1,Leenaars_et_al_2014,3.301707892,1.32986607,False
+GA wasp_1_5,7,0.01,158.4893192,fine,GA wasp_1,Leenaars_et_al_2014,5.061512793,1.394372539,False
+GA wasp_3_1,7,0.01,158.4893192,fine,GA wasp_3,Leenaars_et_al_2014,0.911254301,1.140390064,False
+GA wasp_3_2,7,0.01,158.4893192,fine,GA wasp_3,Leenaars_et_al_2014,0.942323501,1.117710618,False
+GA wasp_3_3,7,0.01,158.4893192,fine,GA wasp_3,Leenaars_et_al_2014,18.65488167,1.028624328,False
+GA wasp_4_2,7,0.01,158.4893192,coarse,GA wasp_4,Leenaars_et_al_2014,6.207174853,1.532105045,False
+GA wasp_4_3,7,0.01,158.4893192,medium,GA wasp_4,Leenaars_et_al_2014,5.954382513,1.521038823,False
+GA wasp_4_4,7,0.01,158.4893192,medium,GA wasp_4,Leenaars_et_al_2014,7.815202262,1.346164113,False
+GA wasp_4_5,7,0.01,158.4893192,medium,GA wasp_4,Leenaars_et_al_2014,4.831668497,1.892494623,False
+GA wasp_6_2,7,0.01,158.4893192,coarse,GA wasp_6,Leenaars_et_al_2014,6.146144914,1.42413361,False
+GA wasp_6_3,7,0.01,158.4893192,medium,GA wasp_6,Leenaars_et_al_2014,5.967484514,1.09505657,False
+GA wasp_6_4,7,0.01,158.4893192,medium,GA wasp_6,Leenaars_et_al_2014,9.838112314,1.06146324,False
+GA wasp_6_5,7,0.01,158.4893192,medium,GA wasp_6,Leenaars_et_al_2014,3.377763886,1.071538465,False
+HYBRAS101,6,0.0,153.0,fine,HYBRAS_18,Ottoni_et_al_2018,8.124655606,1.484142877,False
+HYBRAS102,6,0.0,153.0,fine,HYBRAS_18,Ottoni_et_al_2018,6.956029775,1.583653168,False
+HYBRAS106,7,0.0,153.0,fine,HYBRAS_19,Ottoni_et_al_2018,6.297874762,1.37750052,False
+HYBRAS1064,7,0.0,153.0,medium,HYBRAS_440,Ottoni_et_al_2018,1.006855106,1.608560932,False
+HYBRAS1065,7,0.0,153.0,medium,HYBRAS_441,Ottoni_et_al_2018,0.594183354,1.644964036,False
+HYBRAS1066,7,0.0,153.0,medium,HYBRAS_442,Ottoni_et_al_2018,5.203257538,1.519999472,False
+HYBRAS1067,7,0.0,153.0,medium,HYBRAS_443,Ottoni_et_al_2018,9.544225294,1.257378828,False
+HYBRAS1068,7,0.0,153.0,medium,HYBRAS_444,Ottoni_et_al_2018,0.165788695,2.714315042,False
+HYBRAS107,7,0.0,153.0,fine,HYBRAS_19,Ottoni_et_al_2018,5.131877571,1.71369159,False
+HYBRAS1070,7,0.0,153.0,medium,HYBRAS_440,Ottoni_et_al_2018,1.904644131,1.659254129,False
+HYBRAS1071,7,0.0,153.0,medium,HYBRAS_441,Ottoni_et_al_2018,1.14233382,1.524536114,False
+HYBRAS1072,7,0.0,153.0,medium,HYBRAS_442,Ottoni_et_al_2018,8.995649024,1.45135901,False
+HYBRAS1073,7,0.0,153.0,medium,HYBRAS_443,Ottoni_et_al_2018,21.40820886,1.282737427,False
+HYBRAS1074,7,0.0,153.0,medium,HYBRAS_444,Ottoni_et_al_2018,14.57581832,1.091087234,False
+HYBRAS108,7,0.0,153.0,fine,HYBRAS_19,Ottoni_et_al_2018,11.24749947,1.286066835,False
+HYBRAS111,7,0.0,153.0,medium,HYBRAS_20,Ottoni_et_al_2018,5.547215872,1.419736352,False
+HYBRAS112,7,0.0,153.0,fine,HYBRAS_20,Ottoni_et_al_2018,8.921998165,1.417984724,False
+HYBRAS113,7,0.0,153.0,fine,HYBRAS_20,Ottoni_et_al_2018,4.337490323,1.543893524,False
+HYBRAS117,7,0.0,153.0,fine,HYBRAS_21,Ottoni_et_al_2018,14.70193442,1.320082199,False
+HYBRAS118,7,0.0,153.0,fine,HYBRAS_21,Ottoni_et_al_2018,2.210809295,1.894172688,False
+HYBRAS121,7,0.0,153.0,fine,HYBRAS_22,Ottoni_et_al_2018,19.88974331,1.217132776,False
+HYBRAS122,7,0.0,153.0,fine,HYBRAS_22,Ottoni_et_al_2018,7.131274418,1.42480979,False
+HYBRAS123,7,0.0,153.0,fine,HYBRAS_22,Ottoni_et_al_2018,8.022204387,1.222286705,False
+HYBRAS129,7,0.0,153.0,fine,HYBRAS_23,Ottoni_et_al_2018,3.60198536,1.798684804,False
+HYBRAS130,7,0.0,153.0,medium,HYBRAS_24,Ottoni_et_al_2018,9.402655007,1.119181399,False
+HYBRAS131,7,0.0,153.0,fine,HYBRAS_24,Ottoni_et_al_2018,1.450214886,5.157897048,False
+HYBRAS132,7,0.0,153.0,fine,HYBRAS_24,Ottoni_et_al_2018,1.544650167,4.697106506,False
+HYBRAS133,7,0.0,153.0,fine,HYBRAS_24,Ottoni_et_al_2018,1.815373739,3.661356964,False
+HYBRAS134,7,0.0,153.0,fine,HYBRAS_24,Ottoni_et_al_2018,1.527040834,5.453600423,False
+HYBRAS137,7,0.0,153.0,fine,HYBRAS_25,Ottoni_et_al_2018,9.423148055,1.318959866,False
+HYBRAS138,7,0.0,153.0,fine,HYBRAS_25,Ottoni_et_al_2018,6.894821425,1.337315913,False
+HYBRAS196,6,0.0,153.0,medium,HYBRAS_32,Ottoni_et_al_2018,4.782238805,1.142165386,False
+HYBRAS197,6,0.0,153.0,fine,HYBRAS_32,Ottoni_et_al_2018,13.52043203,1.045357627,False
+HYBRAS198,6,0.0,153.0,medium,HYBRAS_33,Ottoni_et_al_2018,7.130603039,1.12770913,False
+HYBRAS199,6,0.0,153.0,fine,HYBRAS_33,Ottoni_et_al_2018,24.31448788,1.042800083,False
+HYBRAS2,11,0.0,153.0,fine,HYBRAS_1,Ottoni_et_al_2018,33.94867241,1.151192416,False
+HYBRAS201,6,0.0,153.0,fine,HYBRAS_34,Ottoni_et_al_2018,11.55568229,1.038631984,False
+HYBRAS202,6,0.0,153.0,medium,HYBRAS_35,Ottoni_et_al_2018,13.50994637,1.146587413,False
+HYBRAS203,6,0.0,153.0,fine,HYBRAS_35,Ottoni_et_al_2018,31.19408728,1.038634585,False
+HYBRAS207,6,0.0,153.0,fine,HYBRAS_36,Ottoni_et_al_2018,32.63842108,1.050170707,False
+HYBRAS211,6,0.0,153.0,fine,HYBRAS_37,Ottoni_et_al_2018,30.77719967,1.056349925,False
+HYBRAS228,6,0.0,153.0,medium,HYBRAS_42,Ottoni_et_al_2018,29.99314051,1.202763544,False
+HYBRAS234,6,0.0,153.0,fine,HYBRAS_44,Ottoni_et_al_2018,14.7722084,1.136158928,False
+HYBRAS237,6,0.0,153.0,medium,HYBRAS_45,Ottoni_et_al_2018,21.97029604,1.106543835,False
+HYBRAS240,6,0.0,153.0,medium,HYBRAS_46,Ottoni_et_al_2018,41.58260846,1.06170667,False
+HYBRAS241,6,0.0,153.0,medium,HYBRAS_47,Ottoni_et_al_2018,14.50918612,1.065986491,False
+HYBRAS242,6,0.0,153.0,fine,HYBRAS_48,Ottoni_et_al_2018,5.595394548,1.082466217,False
+HYBRAS243,6,0.0,153.0,fine,HYBRAS_48,Ottoni_et_al_2018,20.63926813,1.06195529,False
+HYBRAS244,6,0.0,153.0,fine,HYBRAS_49,Ottoni_et_al_2018,10.89626747,1.053106104,False
+HYBRAS245,6,0.0,153.0,fine,HYBRAS_49,Ottoni_et_al_2018,7.503577126,1.054518893,False
+HYBRAS3,11,0.0,153.0,fine,HYBRAS_1,Ottoni_et_al_2018,23.65819726,1.310091514,False
+HYBRAS380,12,0.0,153.0,coarse,HYBRAS_89,Ottoni_et_al_2018,7.208126967,1.83966609,False
+HYBRAS381,12,0.0,153.0,medium,HYBRAS_90,Ottoni_et_al_2018,15.31757834,1.63102868,False
+HYBRAS382,12,0.0,153.0,medium,HYBRAS_91,Ottoni_et_al_2018,6.987894237,1.639866281,False
+HYBRAS383,12,0.0,153.0,medium,HYBRAS_92,Ottoni_et_al_2018,16.69185938,1.612454311,False
+HYBRAS384,12,0.0,153.0,medium,HYBRAS_93,Ottoni_et_al_2018,20.43594804,1.394385694,False
+HYBRAS385,12,0.0,153.0,fine,HYBRAS_94,Ottoni_et_al_2018,17.17334433,1.63819726,False
+HYBRAS386,12,0.0,153.0,fine,HYBRAS_95,Ottoni_et_al_2018,13.9574751,1.685930798,False
+HYBRAS387,12,0.0,153.0,fine,HYBRAS_96,Ottoni_et_al_2018,21.43365283,1.490103936,False
+HYBRAS388,12,0.0,153.0,fine,HYBRAS_97,Ottoni_et_al_2018,19.48446203,1.4692977,False
+HYBRAS389,12,0.0,153.0,fine,HYBRAS_98,Ottoni_et_al_2018,18.01222788,1.613505414,False
+HYBRAS392,12,0.0,153.0,fine,HYBRAS_99,Ottoni_et_al_2018,24.41425637,1.336069686,False
+HYBRAS393,12,0.0,153.0,fine,HYBRAS_99,Ottoni_et_al_2018,5.617447807,1.717738327,False
+HYBRAS395,12,0.0,153.0,fine,HYBRAS_100,Ottoni_et_al_2018,29.71667694,1.313657666,False
+HYBRAS396,12,0.0,153.0,fine,HYBRAS_100,Ottoni_et_al_2018,32.65692741,1.397266396,False
+HYBRAS397,12,0.0,153.0,fine,HYBRAS_101,Ottoni_et_al_2018,40.90722789,1.28052938,False
+HYBRAS398,12,0.0,153.0,fine,HYBRAS_101,Ottoni_et_al_2018,4.53481127,1.714493239,False
+HYBRAS399,12,0.0,153.0,fine,HYBRAS_101,Ottoni_et_al_2018,15.55892036,1.687364295,False
+HYBRAS400,12,0.0,153.0,medium,HYBRAS_102,Ottoni_et_al_2018,14.55439878,1.416772529,False
+HYBRAS401,12,0.0,153.0,fine,HYBRAS_102,Ottoni_et_al_2018,18.41410864,1.34709328,False
+HYBRAS402,12,0.0,153.0,fine,HYBRAS_102,Ottoni_et_al_2018,23.62516855,1.434620374,False
+HYBRAS403,12,0.0,153.0,fine,HYBRAS_102,Ottoni_et_al_2018,20.57753782,1.637158771,False
+HYBRAS404,12,0.0,153.0,fine,HYBRAS_102,Ottoni_et_al_2018,28.66577315,1.414532058,False
+HYBRAS405,12,0.0,153.0,medium,HYBRAS_103,Ottoni_et_al_2018,14.85268458,1.370445677,False
+HYBRAS406,12,0.0,153.0,medium,HYBRAS_103,Ottoni_et_al_2018,14.21450465,1.304852277,False
+HYBRAS407,12,0.0,153.0,fine,HYBRAS_103,Ottoni_et_al_2018,11.77845168,1.326984026,False
+HYBRAS408,12,0.0,153.0,fine,HYBRAS_103,Ottoni_et_al_2018,16.91243669,1.391626687,False
+HYBRAS409,12,0.0,153.0,fine,HYBRAS_103,Ottoni_et_al_2018,13.44513167,1.060870015,False
+HYBRAS410,12,0.0,153.0,medium,HYBRAS_104,Ottoni_et_al_2018,23.5821659,1.122008889,False
+HYBRAS411,12,0.0,153.0,medium,HYBRAS_104,Ottoni_et_al_2018,34.91240274,1.101767432,False
+HYBRAS412,12,0.0,153.0,fine,HYBRAS_104,Ottoni_et_al_2018,6.287723947,1.297426267,False
+HYBRAS413,12,0.0,153.0,fine,HYBRAS_104,Ottoni_et_al_2018,9.294977742,1.312593134,False
+HYBRAS414,12,0.0,153.0,fine,HYBRAS_104,Ottoni_et_al_2018,4.87471209,1.453641024,False
+HYBRAS450,8,0.0,153.0,fine,HYBRAS_119,Ottoni_et_al_2018,11.61264739,1.724895982,False
+HYBRAS451,8,0.0,153.0,fine,HYBRAS_120,Ottoni_et_al_2018,18.41109695,1.627686596,False
+HYBRAS452,8,0.0,153.0,fine,HYBRAS_120,Ottoni_et_al_2018,5.649556218,1.625787054,False
+HYBRAS453,8,0.0,153.0,coarse,HYBRAS_121,Ottoni_et_al_2018,13.67361726,1.577943256,False
+HYBRAS454,8,0.0,153.0,fine,HYBRAS_121,Ottoni_et_al_2018,18.37208123,1.458739367,False
+HYBRAS463,8,0.0,153.0,fine,HYBRAS_126,Ottoni_et_al_2018,8.48455735,1.646388192,False
+HYBRAS464,8,0.0,153.0,fine,HYBRAS_126,Ottoni_et_al_2018,4.313626925,1.793001759,False
+HYBRAS467,8,0.0,153.0,medium,HYBRAS_128,Ottoni_et_al_2018,9.254945561,1.449895125,False
+HYBRAS468,8,0.0,153.0,fine,HYBRAS_128,Ottoni_et_al_2018,20.22104904,1.325280418,False
+HYBRAS469,8,0.0,153.0,fine,HYBRAS_129,Ottoni_et_al_2018,10.43439599,1.53589052,False
+HYBRAS470,8,0.0,153.0,fine,HYBRAS_129,Ottoni_et_al_2018,4.214697278,1.576079709,False
+HYBRAS471,8,0.0,153.0,medium,HYBRAS_130,Ottoni_et_al_2018,10.2290029,1.482772862,False
+HYBRAS472,8,0.0,153.0,fine,HYBRAS_130,Ottoni_et_al_2018,3.436467304,1.811010779,False
+HYBRAS473,8,0.0,153.0,medium,HYBRAS_131,Ottoni_et_al_2018,8.669792807,1.854452399,False
+HYBRAS474,8,0.0,153.0,fine,HYBRAS_131,Ottoni_et_al_2018,6.963177879,1.379531905,False
+HYBRAS475,8,0.0,153.0,medium,HYBRAS_132,Ottoni_et_al_2018,14.16447186,1.515615853,False
+HYBRAS476,8,0.0,153.0,fine,HYBRAS_132,Ottoni_et_al_2018,49.89269839,1.198984304,False
+HYBRAS479,8,0.0,153.0,coarse,HYBRAS_134,Ottoni_et_al_2018,8.076367657,1.652020256,False
+HYBRAS480,8,0.0,153.0,fine,HYBRAS_134,Ottoni_et_al_2018,17.47422281,1.355592646,False
+HYBRAS483,8,0.0,153.0,medium,HYBRAS_136,Ottoni_et_al_2018,41.1140955,1.479606873,False
+HYBRAS484,8,0.0,153.0,fine,HYBRAS_136,Ottoni_et_al_2018,38.50875169,1.198311013,False
+HYBRAS485,8,0.0,153.0,medium,HYBRAS_137,Ottoni_et_al_2018,5.17750737,1.50181028,False
+HYBRAS486,8,0.0,153.0,fine,HYBRAS_137,Ottoni_et_al_2018,11.03016086,1.477786388,False
+HYBRAS487,8,0.0,153.0,medium,HYBRAS_138,Ottoni_et_al_2018,11.31109503,1.856937403,False
+HYBRAS488,8,0.0,153.0,fine,HYBRAS_138,Ottoni_et_al_2018,4.462708152,2.090408514,False
+HYBRAS491,8,0.0,153.0,fine,HYBRAS_140,Ottoni_et_al_2018,17.09493301,1.626843533,False
+HYBRAS492,8,0.0,153.0,fine,HYBRAS_140,Ottoni_et_al_2018,8.650019156,1.415392871,False
+HYBRAS493,8,0.0,153.0,fine,HYBRAS_141,Ottoni_et_al_2018,15.83891982,1.598931252,False
+HYBRAS494,8,0.0,153.0,fine,HYBRAS_141,Ottoni_et_al_2018,4.605203593,1.898588791,False
+HYBRAS499,8,0.0,153.0,coarse,HYBRAS_144,Ottoni_et_al_2018,8.751068188,1.600108825,False
+HYBRAS500,8,0.0,153.0,medium,HYBRAS_144,Ottoni_et_al_2018,4.162165704,1.523840234,False
+HYBRAS503,8,0.0,153.0,fine,HYBRAS_146,Ottoni_et_al_2018,11.79669886,2.021968225,False
+HYBRAS504,8,0.0,153.0,fine,HYBRAS_146,Ottoni_et_al_2018,8.101106306,1.662608667,False
+HYBRAS740,8,0.0,153.0,coarse,HYBRAS_350,Ottoni_et_al_2018,15.49816559,1.500788804,False
+HYBRAS742,8,0.0,153.0,fine,HYBRAS_350,Ottoni_et_al_2018,45.86904092,1.077078339,False
+HYBRAS744,8,0.0,153.0,coarse,HYBRAS_351,Ottoni_et_al_2018,15.94848565,1.57394599,False
+HYBRAS745,8,0.0,153.0,coarse,HYBRAS_351,Ottoni_et_al_2018,16.47770654,1.434678823,False
+HYBRAS746,8,0.0,153.0,medium,HYBRAS_351,Ottoni_et_al_2018,22.73791775,1.21745991,False
+HYBRAS747,8,0.0,153.0,medium,HYBRAS_351,Ottoni_et_al_2018,14.0599177,1.256936972,False
+HYBRAS748,8,0.0,153.0,fine,HYBRAS_351,Ottoni_et_al_2018,30.02994449,1.091129178,False
+HYBRAS749,8,0.0,153.0,fine,HYBRAS_351,Ottoni_et_al_2018,30.02994448,1.091129178,False
+HYBRAS752,8,0.0,153.0,coarse,HYBRAS_352,Ottoni_et_al_2018,34.43291949,1.647678957,False
+HYBRAS758,8,0.0,153.0,medium,HYBRAS_352,Ottoni_et_al_2018,34.85010642,1.650707611,False
+HYBRAS850,11,0.0,153.0,coarse,HYBRAS_381,Ottoni_et_al_2018,8.083870102,1.758724238,True
+HYBRAS851,11,0.0,153.0,medium,HYBRAS_381,Ottoni_et_al_2018,4.251676445,1.481340269,False
+HYBRAS852,11,0.0,153.0,fine,HYBRAS_381,Ottoni_et_al_2018,7.110945605,1.568986774,False
+HYBRAS853,11,0.0,153.0,medium,HYBRAS_381,Ottoni_et_al_2018,4.001910715,1.851223451,False
+HYBRAS854,10,0.0,153.0,medium,HYBRAS_381,Ottoni_et_al_2018,3.699941224,1.474785794,True
+HYBRAS858,11,0.0,153.0,coarse,HYBRAS_385,Ottoni_et_al_2018,6.567469656,1.690966354,False
+HYBRAS859,11,0.0,153.0,coarse,HYBRAS_386,Ottoni_et_al_2018,8.299134154,1.668684037,False
+HYBRAS860,11,0.0,153.0,coarse,HYBRAS_387,Ottoni_et_al_2018,8.818608327,1.636390697,False
+HYBRAS887,7,0.0,153.0,fine,HYBRAS_394,Ottoni_et_al_2018,44.71039289,1.183622913,False
+HYBRAS888,7,0.0,153.0,fine,HYBRAS_395,Ottoni_et_al_2018,49.33902518,1.156678861,False
+HYBRAS889,7,0.0,153.0,fine,HYBRAS_395,Ottoni_et_al_2018,36.58842304,1.147678312,False
+HYBRAS890,7,0.0,153.0,fine,HYBRAS_395,Ottoni_et_al_2018,58.48706823,1.075556192,False
+HYBRAS893,7,0.0,153.0,fine,HYBRAS_396,Ottoni_et_al_2018,9.269261695,1.170190323,False
+HYBRAS894,9,0.0,153.0,fine,HYBRAS_397,Ottoni_et_al_2018,41.6291402,1.262658368,False
+HYBRAS895,9,0.0,153.0,fine,HYBRAS_397,Ottoni_et_al_2018,14.84670209,1.442801593,False
+HYBRAS896,9,0.0,153.0,fine,HYBRAS_397,Ottoni_et_al_2018,18.27846975,1.401372907,False
+HYBRAS897,9,0.0,153.0,fine,HYBRAS_397,Ottoni_et_al_2018,7.631886897,1.486028515,False
+HYBRAS898,9,0.0,153.0,fine,HYBRAS_398,Ottoni_et_al_2018,32.56924291,1.260873816,False
+HYBRAS899,9,0.0,153.0,fine,HYBRAS_398,Ottoni_et_al_2018,50.49779832,1.280667183,False
+HYBRAS900,9,0.0,153.0,fine,HYBRAS_398,Ottoni_et_al_2018,19.26245217,1.406486663,False
+HYBRAS901,9,0.0,153.0,fine,HYBRAS_398,Ottoni_et_al_2018,18.35630995,1.270898795,False
+HYBRAS902,9,0.0,153.0,fine,HYBRAS_399,Ottoni_et_al_2018,31.03212817,1.26009543,False
+HYBRAS903,9,0.0,153.0,fine,HYBRAS_399,Ottoni_et_al_2018,22.4768766,1.284066783,False
+HYBRAS904,9,0.0,153.0,fine,HYBRAS_399,Ottoni_et_al_2018,42.28797397,1.281347568,False
+HYBRAS906,9,0.0,153.0,medium,HYBRAS_400,Ottoni_et_al_2018,10.88169213,1.455059866,False
+HYBRAS907,9,0.0,153.0,medium,HYBRAS_400,Ottoni_et_al_2018,20.56168643,1.322575514,False
+HYBRAS908,9,0.0,153.0,medium,HYBRAS_400,Ottoni_et_al_2018,28.8400186,1.320304709,False
+HYBRAS909,9,0.0,153.0,fine,HYBRAS_400,Ottoni_et_al_2018,20.84153217,1.280292508,False
+HYBRAS910,9,0.0,153.0,fine,HYBRAS_401,Ottoni_et_al_2018,3.021450983,1.448348841,False
+HYBRAS911,9,0.0,153.0,fine,HYBRAS_401,Ottoni_et_al_2018,10.02792332,1.261406583,False
+HYBRAS913,9,0.0,153.0,fine,HYBRAS_401,Ottoni_et_al_2018,1.096488404,2.10005921,False
+HYBRAS914,9,0.0,153.0,fine,HYBRAS_402,Ottoni_et_al_2018,3.361265198,1.446243283,False
+HYBRAS915,9,0.0,153.0,fine,HYBRAS_402,Ottoni_et_al_2018,3.266067098,1.496502528,False
+HYBRAS916,9,0.0,153.0,fine,HYBRAS_402,Ottoni_et_al_2018,8.124705601,1.370516085,False
+HYBRAS917,9,0.0,153.0,fine,HYBRAS_402,Ottoni_et_al_2018,10.92255003,1.350776638,False
+HYBRAS918,9,0.0,153.0,fine,HYBRAS_403,Ottoni_et_al_2018,3.381319574,1.720921503,False
+HYBRAS919,9,0.0,153.0,fine,HYBRAS_403,Ottoni_et_al_2018,3.57935074,1.527361223,False
+HYBRAS920,9,0.0,153.0,fine,HYBRAS_403,Ottoni_et_al_2018,6.306131257,1.385897814,False
+HYBRAS921,9,0.0,153.0,fine,HYBRAS_403,Ottoni_et_al_2018,4.610194638,1.303400725,False
+HYBRAS922,9,0.0,153.0,fine,HYBRAS_404,Ottoni_et_al_2018,6.242903004,1.407248584,False
+HYBRAS923,9,0.0,153.0,fine,HYBRAS_404,Ottoni_et_al_2018,4.960277618,1.446902776,False
+HYBRAS924,9,0.0,153.0,fine,HYBRAS_404,Ottoni_et_al_2018,3.136245861,1.557333966,False
+HYBRAS925,9,0.0,153.0,fine,HYBRAS_404,Ottoni_et_al_2018,4.735312724,1.506957043,False
+HYBRAS926,8,0.0,153.0,fine,HYBRAS_405,Ottoni_et_al_2018,23.54672975,1.181542656,False
+HYBRAS927,8,0.0,153.0,fine,HYBRAS_405,Ottoni_et_al_2018,8.327484591,1.258392755,False
+HYBRAS928,8,0.0,153.0,fine,HYBRAS_405,Ottoni_et_al_2018,12.85423995,1.268121153,False
+HYBRAS929,8,0.0,153.0,fine,HYBRAS_405,Ottoni_et_al_2018,12.78581979,1.308656509,False
+HYBRAS930,8,0.0,153.0,fine,HYBRAS_405,Ottoni_et_al_2018,6.778532372,1.320471801,False
+HYBRAS931,8,0.0,153.0,fine,HYBRAS_406,Ottoni_et_al_2018,8.864142684,1.175143151,False
+HYBRAS932,8,0.0,153.0,fine,HYBRAS_406,Ottoni_et_al_2018,6.568188802,1.388965929,False
+HYBRAS933,8,0.0,153.0,fine,HYBRAS_406,Ottoni_et_al_2018,9.453806309,1.355755007,False
+HYBRAS934,8,0.0,153.0,fine,HYBRAS_406,Ottoni_et_al_2018,13.67340365,1.17026576,False
+HYBRAS935,8,0.0,153.0,fine,HYBRAS_406,Ottoni_et_al_2018,3.553348513,1.425970814,True
+HYBRAS936,8,0.0,153.0,fine,HYBRAS_407,Ottoni_et_al_2018,12.26398022,1.29295715,False
+HYBRAS937,8,0.0,153.0,fine,HYBRAS_407,Ottoni_et_al_2018,18.73303033,1.341539597,False
+HYBRAS938,8,0.0,153.0,fine,HYBRAS_407,Ottoni_et_al_2018,12.95666705,1.263275715,False
+HYBRAS939,8,0.0,153.0,fine,HYBRAS_407,Ottoni_et_al_2018,22.74187091,1.191202649,False
+HYBRAS940,8,0.0,153.0,fine,HYBRAS_407,Ottoni_et_al_2018,7.984758544,1.251592942,False
+HYBRAS941,8,0.0,153.0,fine,HYBRAS_408,Ottoni_et_al_2018,9.84771701,1.41672785,False
+HYBRAS942,8,0.0,153.0,fine,HYBRAS_408,Ottoni_et_al_2018,13.58334572,1.338168204,False
+HYBRAS943,8,0.0,153.0,fine,HYBRAS_408,Ottoni_et_al_2018,8.387405976,1.357259064,False
+HYBRAS944,8,0.0,153.0,fine,HYBRAS_408,Ottoni_et_al_2018,8.485895303,1.404603634,False
+HYBRAS945,8,0.0,153.0,fine,HYBRAS_408,Ottoni_et_al_2018,18.92806259,1.246119411,False
+HYBRAS946,8,0.0,153.0,fine,HYBRAS_409,Ottoni_et_al_2018,12.02728198,1.432124037,False
+HYBRAS947,8,0.0,153.0,fine,HYBRAS_409,Ottoni_et_al_2018,9.693362262,1.258459119,False
+HYBRAS948,8,0.0,153.0,fine,HYBRAS_409,Ottoni_et_al_2018,8.31794048,1.258682128,False
+HYBRAS949,8,0.0,153.0,medium,HYBRAS_409,Ottoni_et_al_2018,4.767939661,1.24382995,False
+HYBRAS95,9,0.0,153.0,fine,HYBRAS_17,Ottoni_et_al_2018,6.855517697,1.485324211,False
+HYBRAS950,8,0.0,153.0,fine,HYBRAS_409,Ottoni_et_al_2018,4.718513456,1.394057807,False
+HYBRAS951,8,0.0,153.0,fine,HYBRAS_410,Ottoni_et_al_2018,5.610159623,1.5082957,False
+HYBRAS952,8,0.0,153.0,fine,HYBRAS_410,Ottoni_et_al_2018,3.285234346,1.350316142,False
+HYBRAS954,8,0.0,153.0,fine,HYBRAS_410,Ottoni_et_al_2018,12.28713756,1.25105919,False
+HYBRAS955,8,0.0,153.0,fine,HYBRAS_410,Ottoni_et_al_2018,7.682593131,1.314571022,False
+HYBRAS956,8,0.0,153.0,fine,HYBRAS_411,Ottoni_et_al_2018,10.69043135,1.216086876,False
+HYBRAS957,8,0.0,153.0,fine,HYBRAS_411,Ottoni_et_al_2018,13.73555662,1.208568837,False
+HYBRAS958,8,0.0,153.0,fine,HYBRAS_411,Ottoni_et_al_2018,4.609687838,1.510136779,False
+HYBRAS959,8,0.0,153.0,fine,HYBRAS_411,Ottoni_et_al_2018,10.38521194,1.389771943,False
+HYBRAS96,9,0.0,153.0,fine,HYBRAS_17,Ottoni_et_al_2018,5.660984555,1.546600696,False
+HYBRAS960,8,0.0,153.0,fine,HYBRAS_411,Ottoni_et_al_2018,7.318053242,1.328238904,False
+HYBRAS961,8,0.0,153.0,fine,HYBRAS_412,Ottoni_et_al_2018,9.02758854,1.368842487,False
+HYBRAS962,8,0.0,153.0,fine,HYBRAS_412,Ottoni_et_al_2018,5.738924774,1.435114852,False
+HYBRAS963,8,0.0,153.0,fine,HYBRAS_412,Ottoni_et_al_2018,6.342014892,1.360403704,False
+HYBRAS964,8,0.0,153.0,fine,HYBRAS_412,Ottoni_et_al_2018,6.116548812,1.627455492,False
+HYBRAS965,8,0.0,153.0,fine,HYBRAS_412,Ottoni_et_al_2018,15.20565855,1.19574243,False
+HYBRAS969,9,0.0,153.0,fine,HYBRAS_413,Ottoni_et_al_2018,9.133004557,1.34556837,False
+HYBRAS97,9,0.0,153.0,fine,HYBRAS_17,Ottoni_et_al_2018,4.325435604,1.648394284,False
+HYBRAS970,9,0.0,153.0,fine,HYBRAS_414,Ottoni_et_al_2018,8.179398338,1.329892762,False
+HYBRAS971,9,0.0,153.0,fine,HYBRAS_414,Ottoni_et_al_2018,9.363090421,1.274932146,False
+HYBRAS972,9,0.0,153.0,fine,HYBRAS_414,Ottoni_et_al_2018,3.098757744,1.68588202,False
+HYBRAS973,9,0.0,153.0,fine,HYBRAS_414,Ottoni_et_al_2018,3.022194891,1.885408724,False
+HYBRAS974,9,0.0,153.0,fine,HYBRAS_415,Ottoni_et_al_2018,21.19269258,1.227672228,False
+HYBRAS975,9,0.0,153.0,fine,HYBRAS_415,Ottoni_et_al_2018,17.09613786,1.383990023,False
+HYBRAS977,9,0.0,153.0,fine,HYBRAS_415,Ottoni_et_al_2018,7.370979712,1.471499833,False
+HYBRAS978,9,0.0,153.0,fine,HYBRAS_416,Ottoni_et_al_2018,12.73919612,1.297786277,False
+HYBRAS979,9,0.0,153.0,fine,HYBRAS_416,Ottoni_et_al_2018,19.20776373,1.23293954,False
+HYBRAS980,9,0.0,153.0,medium,HYBRAS_416,Ottoni_et_al_2018,4.502787956,1.391433906,False
+HYBRAS981,9,0.0,153.0,fine,HYBRAS_416,Ottoni_et_al_2018,5.993689455,1.324302743,False
+HYBRAS982,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,20.0499967,1.26154291,False
+HYBRAS983,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,2.861111222,1.380569838,False
+HYBRAS984,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,2.634632619,1.309759989,False
+HYBRAS985,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,10.7642116,1.211019799,False
+HYBRAS986,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,4.521392659,1.538651667,False
+HYBRAS987,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,2.533255461,1.781145971,False
+HYBRAS988,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,3.613081452,1.758228504,False
+HYBRAS989,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,3.550793128,1.670745284,False
+HYBRAS99,6,0.0,153.0,fine,HYBRAS_18,Ottoni_et_al_2018,34.15028374,1.280303425,False
+HYBRAS990,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,2.971325691,1.592998887,False
+HYBRAS991,11,0.0,153.0,fine,HYBRAS_417,Ottoni_et_al_2018,3.804792156,1.613689497,False
+KE wasp_10_1,7,0.01,158.4893192,coarse,KE wasp_10,Leenaars_et_al_2014,6.182462186,1.990987372,False
+KE wasp_10_4,7,0.01,158.4893192,fine,KE wasp_10,Leenaars_et_al_2014,6.672832485,1.65959907,False
+KE wasp_11_3,7,0.01,158.4893192,coarse,KE wasp_11,Leenaars_et_al_2014,2.307533999,1.878319013,False
+KE wasp_11_5,6,0.01,158.4893192,coarse,KE wasp_11,Leenaars_et_al_2014,1.214662809,1.24764753,False
+KE wasp_12_2,7,0.01,158.4893192,fine,KE wasp_12,Leenaars_et_al_2014,2.295198324,1.157836452,False
+KE wasp_12_3,6,0.01,158.4893192,medium,KE wasp_12,Leenaars_et_al_2014,0.314633155,1.219053174,False
+KE wasp_26_1,7,0.01,158.4893192,fine,KE wasp_26,Leenaars_et_al_2014,15.631046,1.194749535,False
+KE wasp_26_2,7,0.01,158.4893192,fine,KE wasp_26,Leenaars_et_al_2014,16.06252579,1.160056655,False
+KE wasp_26_6,7,0.01,158.4893192,fine,KE wasp_26,Leenaars_et_al_2014,13.33846406,1.099391084,False
+KE wasp_28_1,7,0.01,158.4893192,coarse,KE wasp_28,Leenaars_et_al_2014,8.624363116,1.718139913,False
+KE wasp_28_2,7,0.01,158.4893192,medium,KE wasp_28,Leenaars_et_al_2014,12.65056904,1.222823653,False
+KE wasp_28_3,7,0.01,158.4893192,medium,KE wasp_28,Leenaars_et_al_2014,8.945979518,1.20311077,False
+KE wasp_28_4,7,0.01,158.4893192,medium,KE wasp_28,Leenaars_et_al_2014,8.599458467,1.250172056,False
+KE wasp_29_1,7,0.01,158.4893192,coarse,KE wasp_29,Leenaars_et_al_2014,4.847385588,1.968316287,False
+KE wasp_29_2,7,0.01,158.4893192,coarse,KE wasp_29,Leenaars_et_al_2014,5.19983778,2.247267697,False
+KE wasp_29_3,7,0.01,158.4893192,coarse,KE wasp_29,Leenaars_et_al_2014,4.486493696,2.036551941,False
+KE wasp_29_4,7,0.01,158.4893192,medium,KE wasp_29,Leenaars_et_al_2014,4.096071187,1.995915562,False
+KE wasp_30_1,7,0.01,158.4893192,coarse,KE wasp_30,Leenaars_et_al_2014,2.237807934,3.146530685,False
+KE wasp_30_2,7,0.01,158.4893192,coarse,KE wasp_30,Leenaars_et_al_2014,2.673019149,2.922407694,False
+KE wasp_30_3,7,0.01,158.4893192,coarse,KE wasp_30,Leenaars_et_al_2014,2.131545942,2.670153543,False
+KE wasp_30_4,6,0.1,158.4893192,coarse,KE wasp_30,Leenaars_et_al_2014,1.953893488,2.928074734,False
+KE wasp_31_1,7,0.01,158.4893192,medium,KE wasp_31,Leenaars_et_al_2014,62.6800791,1.133509987,False
+KE wasp_31_2,7,0.01,158.4893192,fine,KE wasp_31,Leenaars_et_al_2014,26.8876215,1.154118371,False
+KE wasp_31_3,7,0.01,158.4893192,fine,KE wasp_31,Leenaars_et_al_2014,11.90267368,1.179901404,False
+KE wasp_31_4,7,0.01,158.4893192,fine,KE wasp_31,Leenaars_et_al_2014,6.193616165,1.316061211,False
+KE wasp_33_1,7,0.01,158.4893192,coarse,KE wasp_33,Leenaars_et_al_2014,2.350292964,1.332198836,False
+KE wasp_33_2,7,0.01,158.4893192,coarse,KE wasp_33,Leenaars_et_al_2014,2.184165259,2.272129759,False
+KE wasp_33_3,7,0.01,158.4893192,medium,KE wasp_33,Leenaars_et_al_2014,0.570359664,1.092556515,False
+KE wasp_33_4,7,0.01,158.4893192,medium,KE wasp_33,Leenaars_et_al_2014,0.288590703,1.166983908,False
+KE wasp_44_1,7,0.01,158.4893192,medium,KE wasp_44,Leenaars_et_al_2014,6.642202128,1.644634169,False
+KE wasp_44_2,7,0.01,158.4893192,fine,KE wasp_44,Leenaars_et_al_2014,9.348603677,1.380995879,False
+KE wasp_44_4,7,0.01,158.4893192,fine,KE wasp_44,Leenaars_et_al_2014,5.525425578,1.441480304,False
+KE wasp_47_2,7,0.01,158.4893192,fine,KE wasp_47,Leenaars_et_al_2014,3.227829745,1.675672045,False
+KE wasp_47_3,7,0.01,158.4893192,fine,KE wasp_47,Leenaars_et_al_2014,2.811727149,1.700198243,False
+KE wasp_47_4,7,0.01,158.4893192,fine,KE wasp_47,Leenaars_et_al_2014,2.806735737,1.668916534,False
+KE wasp_51_2,7,0.01,158.4893192,fine,KE wasp_51,Leenaars_et_al_2014,7.031045697,1.389987036,False
+KE wasp_51_3,7,0.01,158.4893192,medium,KE wasp_51,Leenaars_et_al_2014,5.547631951,1.346634048,False
+KE wasp_5_1,7,0.01,158.4893192,fine,KE wasp_5,Leenaars_et_al_2014,4.363583404,1.683779675,False
+KE wasp_5_7,7,0.01,158.4893192,fine,KE wasp_5,Leenaars_et_al_2014,2.43976731,1.708144985,False
+KE wasp_6_1,7,0.01,158.4893192,fine,KE wasp_6,Leenaars_et_al_2014,3.935028687,1.712010107,False
+KE wasp_6_3,7,0.01,158.4893192,fine,KE wasp_6,Leenaars_et_al_2014,2.882277434,1.803545562,False
+KE wasp_6_7,7,0.01,158.4893192,fine,KE wasp_6,Leenaars_et_al_2014,1.927086655,1.738786511,False
+KE wasp_7_3,7,0.01,158.4893192,fine,KE wasp_7,Leenaars_et_al_2014,3.495226944,1.753180938,False
+KE wasp_7_6,7,0.01,158.4893192,fine,KE wasp_7,Leenaars_et_al_2014,3.256178475,1.618427435,False
+KE wasp_9_2,7,0.01,158.4893192,coarse,KE wasp_9,Leenaars_et_al_2014,3.754092985,2.084481793,False
+KE wasp_9_3,7,0.01,158.4893192,medium,KE wasp_9,Leenaars_et_al_2014,3.947092696,1.809420792,False
+KE wasp_9_5,7,0.01,158.4893192,fine,KE wasp_9,Leenaars_et_al_2014,3.237919656,1.819516754,False
+Luciano_Alves_de_Oliveira_2019,9,0.1,150.0,medium,,Oliveira et al_2019,4.04338148,1.756960139,False
+ML wasp_1_01,7,0.01,158.4893192,medium,ML wasp_1,Leenaars_et_al_2014,3.156310753,1.197621313,False
+ML wasp_1_03,7,0.01,158.4893192,fine,ML wasp_1,Leenaars_et_al_2014,8.823638129,1.136135811,False
+ML wasp_1_05,7,0.01,158.4893192,fine,ML wasp_1,Leenaars_et_al_2014,8.841182125,1.093638953,False
+ML wasp_7_1,7,0.01,158.4893192,coarse,ML wasp_7,Leenaars_et_al_2014,8.82517711,1.466565797,False
+MZ wasp_4_02,7,0.01,158.4893192,medium,MZ wasp_4,Leenaars_et_al_2014,9.361781152,1.568466921,False
+MZ wasp_4_06,7,0.01,158.4893192,fine,MZ wasp_4,Leenaars_et_al_2014,4.334677198,1.909802495,False
+MZ wasp_5_2,7,0.01,158.4893192,fine,MZ wasp_5,Leenaars_et_al_2014,13.02996229,1.471845749,False
+MZ wasp_5_3,7,0.01,158.4893192,fine,MZ wasp_5,Leenaars_et_al_2014,6.122425965,1.566287263,False
+MZ wasp_5_4,7,0.01,158.4893192,fine,MZ wasp_5,Leenaars_et_al_2014,7.24627712,1.107765164,False
+MZ wasp_6_1,7,0.01,158.4893192,coarse,MZ wasp_6,Leenaars_et_al_2014,14.33962224,1.391260533,False
+MZ wasp_6_3,7,0.01,158.4893192,medium,MZ wasp_6,Leenaars_et_al_2014,8.504181489,1.383450377,False
+MZ wasp_6_5,7,0.01,158.4893192,fine,MZ wasp_6,Leenaars_et_al_2014,6.245796014,1.057278744,False
+MZ wasp_7_4,6,0.01,158.4893192,medium,MZ wasp_7,Leenaars_et_al_2014,4.035559191,1.907136098,False
+MZ wasp_7_5,7,0.01,158.4893192,medium,MZ wasp_7,Leenaars_et_al_2014,4.678066662,1.338241645,False
+MZ wasp_8_2,7,0.01,158.4893192,coarse,MZ wasp_8,Leenaars_et_al_2014,4.474927601,1.254119755,False
+MZ wasp_8_3,7,0.01,158.4893192,medium,MZ wasp_8,Leenaars_et_al_2014,4.845559509,1.328631797,False
+MZ wasp_8_4,7,0.01,158.4893192,medium,MZ wasp_8,Leenaars_et_al_2014,6.362887261,1.324910008,False
+MZ wasp_8_5,7,0.01,158.4893192,medium,MZ wasp_8,Leenaars_et_al_2014,5.621905358,1.321520291,False
+Miguel_Cooper1,8,0.010335,153.5488,coarse,Miguel_Cooper_1,Cooper_et_al_2017,2.401901868,2.985784062,False
+Miguel_Cooper10,10,0.010081,144.8328,coarse,Miguel_Cooper_3,Cooper_et_al_2017,1.846418918,2.967653942,False
+Miguel_Cooper11,9,0.01,150.1311,coarse,Miguel_Cooper_4,Cooper_et_al_2017,0.202729243,1.48978092,False
+Miguel_Cooper12,11,0.009473,142.2136,coarse,Miguel_Cooper_4,Cooper_et_al_2017,2.013511248,3.117252279,False
+Miguel_Cooper14,10,0.010593,146.1187,coarse,Miguel_Cooper_4,Cooper_et_al_2017,2.800804048,1.26794578,False
+Miguel_Cooper15,10,0.009306,154.2036,coarse,Miguel_Cooper_5,Cooper_et_al_2017,2.207396214,2.319046205,False
+Miguel_Cooper16,10,0.010061,146.4804,coarse,Miguel_Cooper_5,Cooper_et_al_2017,2.60280773,2.220830225,False
+Miguel_Cooper18,9,0.09892,139.4227,coarse,Miguel_Cooper_5,Cooper_et_al_2017,0.129979561,1.627768332,False
+Miguel_Cooper2,10,0.009934,147.9207,coarse,Miguel_Cooper_1,Cooper_et_al_2017,1.878195095,2.62232735,False
+Miguel_Cooper3,10,0.010066,153.5488,coarse,Miguel_Cooper_1,Cooper_et_al_2017,1.209421874,2.336217948,False
+Miguel_Cooper4,9,0.010123,158.1985,coarse,Miguel_Cooper_2,Cooper_et_al_2017,2.461818829,3.847417585,False
+Miguel_Cooper5,10,0.010393,153.9951,coarse,Miguel_Cooper_2,Cooper_et_al_2017,1.802061437,4.186917438,False
+Miguel_Cooper6,10,0.01068,153.9352,coarse,Miguel_Cooper_2,Cooper_et_al_2017,3.952475491,1.509887555,False
+Miguel_Cooper7,10,0.010612,152.3557,coarse,Miguel_Cooper_3,Cooper_et_al_2017,2.487089564,4.486669456,False
+Miguel_Cooper8,10,0.01006,152.3557,coarse,Miguel_Cooper_3,Cooper_et_al_2017,1.741902833,2.674357318,False
+Miguel_Cooper9,10,0.010603,152.5772,coarse,Miguel_Cooper_3,Cooper_et_al_2017,2.185639071,3.855807044,False
+NG 23018_1_1,8,0.031622777,6309.573445,medium,NG 23018_1,Leenaars_et_al_2014,2.337735178,1.260611224,False
+NG 23018_1_2,8,0.031622777,6309.573445,medium,NG 23018_1,Leenaars_et_al_2014,1.358260025,1.234383575,False
+NG 23018_1_3,8,0.031622777,6309.573445,medium,NG 23018_1,Leenaars_et_al_2014,2.870196132,1.154284271,False
+NG 23018_2_2,8,0.031622777,6309.573445,medium,NG 23018_2,Leenaars_et_al_2014,2.25417135,1.143369423,False
+NG 23018_2_3,8,0.031622777,6309.573445,medium,NG 23018_2,Leenaars_et_al_2014,0.741676358,1.169870915,False
+NG 23018_3_1,8,0.031622777,6309.573445,medium,NG 23018_3,Leenaars_et_al_2014,0.407630186,1.295395677,False
+NG 23018_3_3,8,0.031622777,6309.573445,medium,NG 23018_3,Leenaars_et_al_2014,1.294320087,1.148953737,False
+NG 23018_4_2,8,0.031622777,6309.573445,coarse,NG 23018_4,Leenaars_et_al_2014,27.53334694,1.254188808,False
+NG 23018_4_3,8,0.031622777,6309.573445,medium,NG 23018_4,Leenaars_et_al_2014,12.04341919,1.166693334,False
+NG 23018_5_2,8,0.031622777,6309.573445,medium,NG 23018_5,Leenaars_et_al_2014,2.107401803,1.234100285,False
+NG 23018_5_3,8,0.031622777,6309.573445,medium,NG 23018_5,Leenaars_et_al_2014,4.831694342,1.124307173,False
+NG 23018_6_1,8,0.031622777,6309.573445,medium,NG 23018_6,Leenaars_et_al_2014,2.444473253,1.148754284,False
+NG 23018_6_2,8,0.031622777,6309.573445,medium,NG 23018_6,Leenaars_et_al_2014,0.026613905,1.320643185,False
+NG 23018_7_1,7,0.031622777,6309.573445,medium,NG 23018_7,Leenaars_et_al_2014,12.16218887,1.145754882,False
+NG 23018_8_1,8,0.031622777,6309.573445,coarse,NG 23018_8,Leenaars_et_al_2014,5.174022921,1.379721208,False
+NG 23018_8_2,8,0.031622777,6309.573445,coarse,NG 23018_8,Leenaars_et_al_2014,15.72939338,1.153253641,False
+NG 23018_9_1,8,0.031622777,6309.573445,medium,NG 23018_9,Leenaars_et_al_2014,2.00375116,1.263026761,False
+NG 23018_9_2,8,0.031622777,6309.573445,medium,NG 23018_9,Leenaars_et_al_2014,1.852712042,1.278098946,False
+NG 23018_9_3,8,0.031622777,6309.573445,medium,NG 23018_9,Leenaars_et_al_2014,0.458012933,1.210688201,False
+NG 28440_Z1_1,6,0.01,158.4893192,coarse,NG 28440_Z1,Leenaars_et_al_2014,2.982967851,1.335990749,False
+NG 28440_Z1_2,6,0.01,158.4893192,coarse,NG 28440_Z1,Leenaars_et_al_2014,6.466214956,1.384336963,False
+NG 28440_Z1_3,6,0.01,158.4893192,coarse,NG 28440_Z1,Leenaars_et_al_2014,1.106078711,1.636460445,False
+NG 28440_Z1_4,6,0.01,158.4893192,coarse,NG 28440_Z1,Leenaars_et_al_2014,1.788657165,1.426721353,False
+NG 28440_Z2_1,6,0.01,158.4893192,coarse,NG 28440_Z2,Leenaars_et_al_2014,3.120220581,1.747591001,False
+NG 28440_Z2_2,6,0.01,158.4893192,coarse,NG 28440_Z2,Leenaars_et_al_2014,4.652473588,1.629022199,False
+NG 28440_Z2_3,6,0.01,158.4893192,coarse,NG 28440_Z2,Leenaars_et_al_2014,1.083029022,2.644966226,False
+NG 28440_Z2_4,6,0.01,158.4893192,coarse,NG 28440_Z2,Leenaars_et_al_2014,0.548925234,2.671773616,False
+NG 28440_Z3_1,6,0.01,158.4893192,coarse,NG 28440_Z3,Leenaars_et_al_2014,0.229245673,1.252552353,False
+NG 28440_Z3_2,6,0.01,158.4893192,medium,NG 28440_Z3,Leenaars_et_al_2014,0.054400436,2.936596234,False
+NG 28440_Z3_3,6,0.01,158.4893192,medium,NG 28440_Z3,Leenaars_et_al_2014,0.05868636,3.38314507,False
+NG 28440_Z4_1,6,0.01,158.4893192,coarse,NG 28440_Z4,Leenaars_et_al_2014,4.001204345,1.594401082,False
+NG 28440_Z4_2,6,0.01,158.4893192,coarse,NG 28440_Z4,Leenaars_et_al_2014,1.795076093,1.535981888,False
+NG 28440_Z5_1,6,0.01,158.4893192,coarse,NG 28440_Z5,Leenaars_et_al_2014,2.285263234,1.646233754,False
+NG 28440_Z5_2,6,0.01,158.4893192,coarse,NG 28440_Z5,Leenaars_et_al_2014,1.47260247,1.712674935,False
+NG 28440_Z6_1,6,0.01,158.4893192,coarse,NG 28440_Z6,Leenaars_et_al_2014,3.266508324,1.4202783,False
+NG 28440_Z6_2,6,0.01,158.4893192,coarse,NG 28440_Z6,Leenaars_et_al_2014,5.575446839,1.417382963,False
+NG 28440_Z6_3,6,0.01,158.4893192,coarse,NG 28440_Z6,Leenaars_et_al_2014,4.822575939,1.117383963,False
+NG 28440_Z6_4,6,0.01,158.4893192,coarse,NG 28440_Z6,Leenaars_et_al_2014,1.846080333,1.667675793,False
+NG wasp_15_1,7,0.01,158.4893192,coarse,NG wasp_15,Leenaars_et_al_2014,3.738375652,1.456641622,False
+NG wasp_15_3,7,0.01,158.4893192,coarse,NG wasp_15,Leenaars_et_al_2014,4.524024357,1.727282237,False
+NG wasp_15_6,7,0.01,158.4893192,medium,NG wasp_15,Leenaars_et_al_2014,5.820340575,1.386873057,False
+NG wasp_16_1,7,0.01,158.4893192,coarse,NG wasp_16,Leenaars_et_al_2014,8.823357159,1.349898425,False
+NG wasp_16_3,7,0.01,158.4893192,medium,NG wasp_16,Leenaars_et_al_2014,4.783479804,1.341844847,False
+NG wasp_16_4,7,0.01,158.4893192,medium,NG wasp_16,Leenaars_et_al_2014,3.129382746,1.387467054,False
+NG wasp_17_1,7,0.01,158.4893192,coarse,NG wasp_17,Leenaars_et_al_2014,5.51435946,2.943855874,False
+NG wasp_17_2,7,0.01,158.4893192,coarse,NG wasp_17,Leenaars_et_al_2014,5.476482838,2.580565185,False
+NG wasp_17_3,7,0.01,158.4893192,coarse,NG wasp_17,Leenaars_et_al_2014,5.648977837,3.740007934,False
+NG wasp_18_1,7,0.01,158.4893192,coarse,NG wasp_18,Leenaars_et_al_2014,6.218330367,1.973080425,False
+NG wasp_18_2,7,0.01,158.4893192,medium,NG wasp_18,Leenaars_et_al_2014,12.47896156,1.0857388,False
+NG wasp_18_4,7,0.01,158.4893192,fine,NG wasp_18,Leenaars_et_al_2014,8.238148758,1.198503394,False
+NG wasp_19_1,7,0.01,158.4893192,medium,NG wasp_19,Leenaars_et_al_2014,7.13185539,1.551977075,False
+NG wasp_19_2,7,0.01,158.4893192,fine,NG wasp_19,Leenaars_et_al_2014,9.425153517,1.225571895,False
+NG wasp_20_1,7,0.01,158.4893192,coarse,NG wasp_20,Leenaars_et_al_2014,6.243151193,1.560322153,False
+NG wasp_20_2,7,0.01,158.4893192,medium,NG wasp_20,Leenaars_et_al_2014,10.90610496,1.345094103,False
+NG wasp_20_3,7,0.01,158.4893192,fine,NG wasp_20,Leenaars_et_al_2014,8.361465609,1.316204398,False
+NG wasp_21_01,7,0.01,158.4893192,coarse,NG wasp_21,Leenaars_et_al_2014,11.2453205,1.342240323,False
+S.Konyai_2006_KK1,14,0.05,100.0,coarse,,Konyai_et_al_2006,7.886273366,1.231171254,False
+S.Konyai_2006_KK3,13,0.05,100.0,coarse,,Konyai_et_al_2006,0.879987766,1.128332602,False
+S.Konyai_2006_ST1,13,0.05,100.0,coarse,,Konyai_et_al_2006,4.06580223,1.204416159,False
+S.Konyai_2006_ST2,13,0.05,100.0,coarse,,Konyai_et_al_2006,2.199846115,1.310702653,False
+S.Konyai_2006_ST3,14,0.05,100.0,medium,,Konyai_et_al_2006,0.94586405,1.154935222,False
+TG isis_1_1,7,0.01,158.4893192,coarse,TG isis_1,Leenaars_et_al_2014,3.961696369,1.711910953,False
+TG isis_1_2,7,0.01,158.4893192,coarse,TG isis_1,Leenaars_et_al_2014,2.442492981,2.000482657,False
+TG isis_1_3,7,0.01,158.4893192,medium,TG isis_1,Leenaars_et_al_2014,10.94912516,1.256417647,False
+TG isis_1_5,7,0.01,158.4893192,medium,TG isis_1,Leenaars_et_al_2014,18.56836674,1.254286255,False
+TZ 26980_13_1,8,0.1,158.4893192,medium,TZ 26980_13,Leenaars_et_al_2014,1.972324371,1.316919101,False
+TZ 26980_13_2,8,0.1,158.4893192,fine,TZ 26980_13,Leenaars_et_al_2014,9.976836486,1.131778825,False
+TZ 26980_13_3,8,0.1,158.4893192,fine,TZ 26980_13,Leenaars_et_al_2014,0.496543504,1.231193453,False
+TZ 26980_14_1,8,0.1,158.4893192,coarse,TZ 26980_14,Leenaars_et_al_2014,1.089343425,1.261114143,False
+TZ 26980_14_2,8,0.1,158.4893192,coarse,TZ 26980_14,Leenaars_et_al_2014,4.957837438,1.365983963,False
+TZ 26980_14_3,8,0.1,158.4893192,coarse,TZ 26980_14,Leenaars_et_al_2014,5.524883298,1.429411006,False
+TZ 26980_14_4,8,0.1,158.4893192,medium,TZ 26980_14,Leenaars_et_al_2014,0.561826998,1.205452336,False
+TZ 26980_22_2,8,0.1,158.4893192,coarse,TZ 26980_22,Leenaars_et_al_2014,3.014089209,1.970746865,False
+TZ 26980_22_3,8,0.1,158.4893192,medium,TZ 26980_22,Leenaars_et_al_2014,0.21430152,1.766396653,False
+TZ 26980_23_2,8,0.1,158.4893192,coarse,TZ 26980_23,Leenaars_et_al_2014,17.88620197,1.143258036,False
+TZ 26980_3_1,8,0.1,158.4893192,fine,TZ 26980_3,Leenaars_et_al_2014,1.608191852,1.329845177,False
+TZ 26980_3_2,8,0.1,158.4893192,fine,TZ 26980_3,Leenaars_et_al_2014,1.92321156,1.168615133,False
+TZ 26980_3_4,8,0.1,158.4893192,fine,TZ 26980_3,Leenaars_et_al_2014,1.592310979,1.068639841,False
+TZ 26980_8_1,8,0.1,158.4893192,medium,TZ 26980_8,Leenaars_et_al_2014,4.460871511,1.198906749,False
+Thakur_2010_1,8,0.102329,7430.191,medium,,Thakur_et_al_2007,0.516624866,1.239061351,False

@@ -1,0 +1,10 @@
+name: soil_retention
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
